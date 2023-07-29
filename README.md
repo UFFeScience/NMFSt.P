@@ -2,7 +2,7 @@
 
 ## Pré-requisitos
 
-- Python 3.8.10
+- Python 3.10.12
 - Clustalw (versão 2.1) 
 - Arquivo FASTA com sequências de proteínas
 
