@@ -58,3 +58,7 @@ O script "Constructor.ipynb" e "sub_find.ipynb" realizarão automaticamente a li
 ## Considerações Finais
 
 Este guia fornece uma visão geral do workflow para construção de árvores filogenéticas e análise de subárvores. Certifique-se de que os arquivos de entrada estejam corretamente organizados nos diretórios indicados e execute os scripts conforme as etapas descritas.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
