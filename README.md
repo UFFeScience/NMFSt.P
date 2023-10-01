@@ -1,5 +1,7 @@
 # NMFSt.P
 
+<a href="https://sol.sbc.org.br/index.php/bresci/article/view/25492">NMFSt.P: um Notebook para Identificação em Paralelo de Subárvores Frequentes em Conjuntos de Árvores Filogenéticas</a>
+
 ## Pré-requisitos
 
 - Python 3.10.12
