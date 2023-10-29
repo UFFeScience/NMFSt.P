@@ -1,0 +1,1388 @@
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL371: 213
+
+
+SUBTREE:
+tree_ORTHOMCL371_Inner6
+
+ , 9lcl|XP_808090.1
+ |
+ |                                                          , 7lcl|XP_657214.1
+ |      ____________________________________________________|
+ |     |                                                    | 6lcl|XP_652365.1
+ |_____|
+ |     |     , 1lcl|AAA29508.1
+ |     |_____|
+_|           |_ 2lcl|AAA29509.1
+ |
+ |__________________________________ 8lcl|XP_808089.1
+ |
+ | 3lcl|CAA36316.1
+ |
+ | 4lcl|CAA39861.1
+
+
+
+
+subtree clade: 9lcl|XP_808090.1: 198
+subtree clade: 7lcl|XP_657214.1: 85
+subtree clade: 6lcl|XP_652365.1: 226
+subtree clade: 1lcl|AAA29508.1: 33
+subtree clade: 2lcl|AAA29509.1: 104
+subtree clade: 8lcl|XP_808089.1: 99
+subtree clade: 3lcl|CAA36316.1: 165
+subtree clade: 4lcl|CAA39861.1: 225
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL371_Inner4
+
+ , 9lcl|XP_808090.1
+ |
+_|                                                          , 7lcl|XP_657214.1
+ |      ____________________________________________________|
+ |     |                                                    | 6lcl|XP_652365.1
+ |_____|
+       |     , 1lcl|AAA29508.1
+       |_____|
+             |_ 2lcl|AAA29509.1
+
+
+
+
+subtree clade: 9lcl|XP_808090.1: 198
+subtree clade: 7lcl|XP_657214.1: 85
+subtree clade: 6lcl|XP_652365.1: 226
+subtree clade: 1lcl|AAA29508.1: 33
+subtree clade: 2lcl|AAA29509.1: 104
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL371_Inner3
+
+                                                             , 7lcl|XP_657214.1
+        _____________________________________________________|
+       |                                                     | 6lcl|XP_652365.1
+_______|
+       |     , 1lcl|AAA29508.1
+       |_____|
+             |_ 2lcl|AAA29509.1
+
+
+
+
+subtree clade: 7lcl|XP_657214.1: 85
+subtree clade: 6lcl|XP_652365.1: 226
+subtree clade: 1lcl|AAA29508.1: 33
+subtree clade: 2lcl|AAA29509.1: 104
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL371_Inner1
+
+                                                              , 7lcl|XP_657214.1
+______________________________________________________________|
+                                                              | 6lcl|XP_652365.1
+
+
+
+
+subtree clade: 7lcl|XP_657214.1: 85
+subtree clade: 6lcl|XP_652365.1: 226
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL371_Inner2
+
+                                                 , 1lcl|AAA29508.1
+_________________________________________________|
+                                                 |______________ 2lcl|AAA29509.1
+
+
+
+
+subtree clade: 1lcl|AAA29508.1: 33
+subtree clade: 2lcl|AAA29509.1: 104
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL371_Inner5
+
+  _____________________________________________________________ 8lcl|XP_808089.1
+_|
+ | 3lcl|CAA36316.1
+
+
+
+
+subtree clade: 8lcl|XP_808089.1: 99
+subtree clade: 3lcl|CAA36316.1: 165
+
+
+
+
+CLADES DA ARVORE tree_ORTHOMCL371:
+
+9lcl|XP_808090.1: 198
+7lcl|XP_657214.1: 85
+6lcl|XP_652365.1: 226
+1lcl|AAA29508.1: 33
+2lcl|AAA29509.1: 104
+8lcl|XP_808089.1: 99
+3lcl|CAA36316.1: 165
+4lcl|CAA39861.1: 225
+
+
+
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL337: 93
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner7
+
+                         ______________________ 7lcl|XP_653142.1
+                        |
+                        |            ___________________ 2lcl|AAX79562.1
+  ______________________| __________|
+ |                      ||          |                   , 9lcl|XP_817430.1
+ |                      ||          |___________________|
+ |                      ||                              | 8lcl|XP_814268.1
+ |                       |
+ |                       |               _____ 1lcl|AAN08877.1
+_|                       |______________|
+ |                                      |_____ 6lcl|XP_001681074.1
+ |
+ , 5lcl|XP_001350045.1
+ |
+ | 4lcl|ABB91447.1
+ |
+ | 3lcl|ABB91446.1
+
+
+
+
+subtree clade: 7lcl|XP_653142.1: 123
+subtree clade: 2lcl|AAX79562.1: 117
+subtree clade: 9lcl|XP_817430.1: 44
+subtree clade: 8lcl|XP_814268.1: 175
+subtree clade: 1lcl|AAN08877.1: 103
+subtree clade: 6lcl|XP_001681074.1: 16
+subtree clade: 5lcl|XP_001350045.1: 162
+subtree clade: 4lcl|ABB91447.1: 10
+subtree clade: 3lcl|ABB91446.1: 171
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner5
+
+                         _______________________ 7lcl|XP_653142.1
+                        |
+                        |             ___________________ 2lcl|AAX79562.1
+________________________| ___________|
+                        ||           |                   , 9lcl|XP_817430.1
+                        ||           |___________________|
+                        ||                               | 8lcl|XP_814268.1
+                         |
+                         |                _____ 1lcl|AAN08877.1
+                         |_______________|
+                                         |_____ 6lcl|XP_001681074.1
+
+
+
+
+subtree clade: 7lcl|XP_653142.1: 123
+subtree clade: 2lcl|AAX79562.1: 117
+subtree clade: 9lcl|XP_817430.1: 44
+subtree clade: 8lcl|XP_814268.1: 175
+subtree clade: 1lcl|AAN08877.1: 103
+subtree clade: 6lcl|XP_001681074.1: 16
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner4
+
+                       __________________________________ 2lcl|AAX79562.1
+   ___________________|
+  |                   |                                  _ 9lcl|XP_817430.1
+  |                   |_________________________________|
+__|                                                     | 8lcl|XP_814268.1
+  |
+  |                           _________ 1lcl|AAN08877.1
+  |__________________________|
+                             |__________ 6lcl|XP_001681074.1
+
+
+
+
+subtree clade: 2lcl|AAX79562.1: 117
+subtree clade: 9lcl|XP_817430.1: 44
+subtree clade: 8lcl|XP_814268.1: 175
+subtree clade: 1lcl|AAN08877.1: 103
+subtree clade: 6lcl|XP_001681074.1: 16
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner3
+
+                       ______________________________________ 2lcl|AAX79562.1
+______________________|
+                      |                                      _ 9lcl|XP_817430.1
+                      |_____________________________________|
+                                                            | 8lcl|XP_814268.1
+
+
+
+
+subtree clade: 2lcl|AAX79562.1: 117
+subtree clade: 9lcl|XP_817430.1: 44
+subtree clade: 8lcl|XP_814268.1: 175
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner1
+
+                                                             __ 9lcl|XP_817430.1
+____________________________________________________________|
+                                                            |_ 8lcl|XP_814268.1
+
+
+
+
+subtree clade: 9lcl|XP_817430.1: 44
+subtree clade: 8lcl|XP_814268.1: 175
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner2
+
+                                           _______________ 1lcl|AAN08877.1
+__________________________________________|
+                                          |_________________ 6lcl|XP_001681074.1
+
+
+
+
+subtree clade: 1lcl|AAN08877.1: 103
+subtree clade: 6lcl|XP_001681074.1: 16
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner6
+
+         ______ 5lcl|XP_001350045.1
+________|
+        |___________________________________________________ 4lcl|ABB91447.1
+
+
+
+
+subtree clade: 5lcl|XP_001350045.1: 162
+subtree clade: 4lcl|ABB91447.1: 10
+
+
+
+
+CLADES DA ARVORE tree_ORTHOMCL337:
+
+7lcl|XP_653142.1: 123
+2lcl|AAX79562.1: 117
+9lcl|XP_817430.1: 44
+8lcl|XP_814268.1: 175
+1lcl|AAN08877.1: 103
+6lcl|XP_001681074.1: 16
+5lcl|XP_001350045.1: 162
+4lcl|ABB91447.1: 10
+3lcl|ABB91446.1: 171
+
+
+
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL1: 30
+
+
+SUBTREE:
+tree_ORTHOMCL1_Inner3
+
+           ___ 1lcl|AAG00459.1
+  ________|
+ |        |_____ 5lcl|XP_813700.1
+ |
+_|______________ 3lcl|AAZ14670.1
+ |
+ |                         _______________________________ 4lcl|XP_653680.1
+ |________________________|
+                          |__________________________________ 2lcl|AAN35864.1
+
+
+
+
+subtree clade: 1lcl|AAG00459.1: 59
+subtree clade: 5lcl|XP_813700.1: 35
+subtree clade: 3lcl|AAZ14670.1: 191
+subtree clade: 4lcl|XP_653680.1: 47
+subtree clade: 2lcl|AAN35864.1: 63
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL1_Inner2
+
+                                        ______________ 1lcl|AAG00459.1
+_______________________________________|
+                                       |_______________________ 5lcl|XP_813700.1
+
+
+
+
+subtree clade: 1lcl|AAG00459.1: 59
+subtree clade: 5lcl|XP_813700.1: 35
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL1_Inner1
+
+                            ________________________________ 4lcl|XP_653680.1
+___________________________|
+                           |___________________________________ 2lcl|AAN35864.1
+
+
+
+
+subtree clade: 4lcl|XP_653680.1: 47
+subtree clade: 2lcl|AAN35864.1: 63
+
+
+
+
+CLADES DA ARVORE tree_ORTHOMCL1:
+
+1lcl|AAG00459.1: 59
+5lcl|XP_813700.1: 35
+3lcl|AAZ14670.1: 191
+4lcl|XP_653680.1: 47
+2lcl|AAN35864.1: 63
+
+
+
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL256: 24
+
+
+SUBTREE:
+tree_ORTHOMCL256_Inner8
+
+   _ 7lcl|XP_808221.1
+  |
+ ,|  ____ 10lcl|XP_822287.1
+ || |
+ || |                            ________________________ 2lcl|CAD51724.1
+ ||_|  _________________________|
+ |  | |                         |                      , 6lcl|XP_657219.1
+ |  | |                         |______________________|
+ |  | |                                                |, 5lcl|XP_656669.1
+ |  |_|                                                ||
+_|    |                                                 | 4lcl|XP_655599.1
+ |    |
+ |    |  ___ 1lcl|AAZ14428.1
+ |    |_|
+ |      |_____ 3lcl|XP_001683137.1
+ |
+ | 8lcl|XP_817439.1
+ |
+ | 9lcl|XP_817889.1
+
+
+
+
+subtree clade: 7lcl|XP_808221.1: 43
+subtree clade: 10lcl|XP_822287.1: 73
+subtree clade: 2lcl|CAD51724.1: 186
+subtree clade: 6lcl|XP_657219.1: 3
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+subtree clade: 1lcl|AAZ14428.1: 131
+subtree clade: 3lcl|XP_001683137.1: 21
+subtree clade: 8lcl|XP_817439.1: 181
+subtree clade: 9lcl|XP_817889.1: 108
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_Inner7
+
+   _ 7lcl|XP_808221.1
+  |
+__|  ____ 10lcl|XP_822287.1
+  | |
+  | |                             _______________________ 2lcl|CAD51724.1
+  |_|  __________________________|
+    | |                          |                      , 6lcl|XP_657219.1
+    | |                          |______________________|
+    | |                                                 |, 5lcl|XP_656669.1
+    |_|                                                 ||
+      |                                                  | 4lcl|XP_655599.1
+      |
+      |  ___ 1lcl|AAZ14428.1
+      |_|
+        |_____ 3lcl|XP_001683137.1
+
+
+
+
+subtree clade: 7lcl|XP_808221.1: 43
+subtree clade: 10lcl|XP_822287.1: 73
+subtree clade: 2lcl|CAD51724.1: 186
+subtree clade: 6lcl|XP_657219.1: 3
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+subtree clade: 1lcl|AAZ14428.1: 131
+subtree clade: 3lcl|XP_001683137.1: 21
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_Inner6
+
+    ____ 10lcl|XP_822287.1
+   |
+   |                             _________________________ 2lcl|CAD51724.1
+___|  __________________________|
+   | |                          |                       , 6lcl|XP_657219.1
+   | |                          |_______________________|
+   | |                                                  |, 5lcl|XP_656669.1
+   |_|                                                  ||
+     |                                                   | 4lcl|XP_655599.1
+     |
+     |  ___ 1lcl|AAZ14428.1
+     |_|
+       |_____ 3lcl|XP_001683137.1
+
+
+
+
+subtree clade: 10lcl|XP_822287.1: 73
+subtree clade: 2lcl|CAD51724.1: 186
+subtree clade: 6lcl|XP_657219.1: 3
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+subtree clade: 1lcl|AAZ14428.1: 131
+subtree clade: 3lcl|XP_001683137.1: 21
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_Inner5
+
+                                __________________________ 2lcl|CAD51724.1
+    ___________________________|
+   |                           |                        , 6lcl|XP_657219.1
+   |                           |________________________|
+   |                                                    |, 5lcl|XP_656669.1
+___|                                                    ||
+   |                                                     | 4lcl|XP_655599.1
+   |
+   |  ___ 1lcl|AAZ14428.1
+   |_|
+     |_____ 3lcl|XP_001683137.1
+
+
+
+
+subtree clade: 2lcl|CAD51724.1: 186
+subtree clade: 6lcl|XP_657219.1: 3
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+subtree clade: 1lcl|AAZ14428.1: 131
+subtree clade: 3lcl|XP_001683137.1: 21
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_Inner3
+
+                                 _____________________________ 2lcl|CAD51724.1
+________________________________|
+                                |                           , 6lcl|XP_657219.1
+                                |___________________________|
+                                                            |, 5lcl|XP_656669.1
+                                                            ||
+                                                             | 4lcl|XP_655599.1
+
+
+
+
+subtree clade: 2lcl|CAD51724.1: 186
+subtree clade: 6lcl|XP_657219.1: 3
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_Inner2
+
+                                                            _ 6lcl|XP_657219.1
+___________________________________________________________|
+                                                           | _ 5lcl|XP_656669.1
+                                                           ||
+                                                            | 4lcl|XP_655599.1
+
+
+
+
+subtree clade: 6lcl|XP_657219.1: 3
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_Inner1
+
+                                     __________________________ 5lcl|XP_656669.1
+____________________________________|
+                                    |____________________ 4lcl|XP_655599.1
+
+
+
+
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_Inner4
+
+                  ________________________________ 1lcl|AAZ14428.1
+_________________|
+                 |__________________________________________ 3lcl|XP_001683137.1
+
+
+
+
+subtree clade: 1lcl|AAZ14428.1: 131
+subtree clade: 3lcl|XP_001683137.1: 21
+
+
+
+
+CLADES DA ARVORE tree_ORTHOMCL256:
+
+7lcl|XP_808221.1: 43
+10lcl|XP_822287.1: 73
+2lcl|CAD51724.1: 186
+6lcl|XP_657219.1: 3
+5lcl|XP_656669.1: 218
+4lcl|XP_655599.1: 59
+1lcl|AAZ14428.1: 131
+3lcl|XP_001683137.1: 21
+8lcl|XP_817439.1: 181
+9lcl|XP_817889.1: 108
+
+
+
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL364: 144
+
+
+SUBTREE:
+tree_ORTHOMCL364_Inner7
+
+                                   _____________________ 4lcl|AAZ09536.1
+      ____________________________|
+     |                            |      ____________ 1lcl|AAA73081.1
+     |                            |_____|
+     |                                  |          , 9lcl|XP_818131.1
+  ___|                                  |__________|
+ |   |                                             | 8lcl|XP_810170.1
+ |   |
+ |   |       , 6lcl|XP_653586.1
+ |   |_______|
+_|           | 7lcl|XP_657292.1
+ |
+ |   , 3lcl|AAF15357.1
+ |___|
+ |   | 2lcl|AAC41606.1
+ |
+ |___ 5lcl|XP_001349346.1
+
+
+
+
+subtree clade: 4lcl|AAZ09536.1: 181
+subtree clade: 1lcl|AAA73081.1: 164
+subtree clade: 9lcl|XP_818131.1: 17
+subtree clade: 8lcl|XP_810170.1: 176
+subtree clade: 6lcl|XP_653586.1: 120
+subtree clade: 7lcl|XP_657292.1: 122
+subtree clade: 3lcl|AAF15357.1: 33
+subtree clade: 2lcl|AAC41606.1: 27
+subtree clade: 5lcl|XP_001349346.1: 42
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL364_Inner6
+
+                                     ________________________ 4lcl|AAZ09536.1
+      ______________________________|
+     |                              |       ____________ 1lcl|AAA73081.1
+     |                              |______|
+     |                                     |           , 9lcl|XP_818131.1
+_____|                                     |___________|
+     |                                                 | 8lcl|XP_810170.1
+     |
+     |        _ 6lcl|XP_653586.1
+     |_______|
+             |_ 7lcl|XP_657292.1
+
+
+
+
+subtree clade: 4lcl|AAZ09536.1: 181
+subtree clade: 1lcl|AAA73081.1: 164
+subtree clade: 9lcl|XP_818131.1: 17
+subtree clade: 8lcl|XP_810170.1: 176
+subtree clade: 6lcl|XP_653586.1: 120
+subtree clade: 7lcl|XP_657292.1: 122
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL364_Inner3
+
+                                   __________________________ 4lcl|AAZ09536.1
+__________________________________|
+                                  |        ______________ 1lcl|AAA73081.1
+                                  |_______|
+                                          |            , 9lcl|XP_818131.1
+                                          |____________|
+                                                       | 8lcl|XP_810170.1
+
+
+
+
+subtree clade: 4lcl|AAZ09536.1: 181
+subtree clade: 1lcl|AAA73081.1: 164
+subtree clade: 9lcl|XP_818131.1: 17
+subtree clade: 8lcl|XP_810170.1: 176
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL364_Inner2
+
+                      ________________________________________ 1lcl|AAA73081.1
+_____________________|
+                     |                                    , 9lcl|XP_818131.1
+                     |____________________________________|
+                                                          | 8lcl|XP_810170.1
+
+
+
+
+subtree clade: 1lcl|AAA73081.1: 164
+subtree clade: 9lcl|XP_818131.1: 17
+subtree clade: 8lcl|XP_810170.1: 176
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL364_Inner1
+
+                                                             __ 9lcl|XP_818131.1
+____________________________________________________________|
+                                                            |_ 8lcl|XP_810170.1
+
+
+
+
+subtree clade: 9lcl|XP_818131.1: 17
+subtree clade: 8lcl|XP_810170.1: 176
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL364_Inner4
+
+                                                    _______ 6lcl|XP_653586.1
+___________________________________________________|
+                                                   |___________ 7lcl|XP_657292.1
+
+
+
+
+subtree clade: 6lcl|XP_653586.1: 120
+subtree clade: 7lcl|XP_657292.1: 122
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL364_Inner5
+
+                                                               _ 3lcl|AAF15357.1
+______________________________________________________________|
+                                                              | 2lcl|AAC41606.1
+
+
+
+
+subtree clade: 3lcl|AAF15357.1: 33
+subtree clade: 2lcl|AAC41606.1: 27
+
+
+
+
+CLADES DA ARVORE tree_ORTHOMCL364:
+
+4lcl|AAZ09536.1: 181
+1lcl|AAA73081.1: 164
+9lcl|XP_818131.1: 17
+8lcl|XP_810170.1: 176
+6lcl|XP_653586.1: 120
+7lcl|XP_657292.1: 122
+3lcl|AAF15357.1: 33
+2lcl|AAC41606.1: 27
+5lcl|XP_001349346.1: 42
+
+
+
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL358: 176
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner7
+
+                                                        , 7lcl|XP_655103.2
+                    ____________________________________|
+                   |                                    | 6lcl|XP_655064.2
+  _________________|
+ |                 |                       ___ 5lcl|CAA63555.1
+ |                 |                    __|
+ |                 |___________________|  |_________________ 1lcl|AAC47440.1
+ |                                     |
+ |                                     |___________ 2lcl|AAN36041.1
+_|
+ | _______________________________________________ 4lcl|AAZ10035.1
+ ||
+ ||                  ____________________ 9lcl|XP_814463.1
+ ||_________________|
+ |                  |___________________________________ 8lcl|XP_804960.1
+ |
+ |_________________________ 3lcl|AAX79175.1
+
+
+
+
+subtree clade: 7lcl|XP_655103.2: 65
+subtree clade: 6lcl|XP_655064.2: 6
+subtree clade: 5lcl|CAA63555.1: 97
+subtree clade: 1lcl|AAC47440.1: 29
+subtree clade: 2lcl|AAN36041.1: 253
+subtree clade: 4lcl|AAZ10035.1: 142
+subtree clade: 9lcl|XP_814463.1: 52
+subtree clade: 8lcl|XP_804960.1: 64
+subtree clade: 3lcl|AAX79175.1: 66
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner5
+
+                                                         , 7lcl|XP_655103.2
+                    _____________________________________|
+                   |                                     | 6lcl|XP_655064.2
+___________________|
+                   |                        ___ 5lcl|CAA63555.1
+                   |                    ___|
+                   |___________________|   |_________________ 1lcl|AAC47440.1
+                                       |
+                                       |____________ 2lcl|AAN36041.1
+
+
+
+
+subtree clade: 7lcl|XP_655103.2: 65
+subtree clade: 6lcl|XP_655064.2: 6
+subtree clade: 5lcl|CAA63555.1: 97
+subtree clade: 1lcl|AAC47440.1: 29
+subtree clade: 2lcl|AAN36041.1: 253
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner1
+
+                                                              , 7lcl|XP_655103.2
+______________________________________________________________|
+                                                              | 6lcl|XP_655064.2
+
+
+
+
+subtree clade: 7lcl|XP_655103.2: 65
+subtree clade: 6lcl|XP_655064.2: 6
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner4
+
+                                     _____ 5lcl|CAA63555.1
+                                ____|
+_______________________________|    |__________________________ 1lcl|AAC47440.1
+                               |
+                               |__________________ 2lcl|AAN36041.1
+
+
+
+
+subtree clade: 5lcl|CAA63555.1: 97
+subtree clade: 1lcl|AAC47440.1: 29
+subtree clade: 2lcl|AAN36041.1: 253
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner3
+
+           ____________ 5lcl|CAA63555.1
+__________|
+          |_____________________________________________________ 1lcl|AAC47440.1
+
+
+
+
+subtree clade: 5lcl|CAA63555.1: 97
+subtree clade: 1lcl|AAC47440.1: 29
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner6
+
+   ___________________________________________________ 4lcl|AAZ10035.1
+__|
+  |                    ______________________ 9lcl|XP_814463.1
+  |___________________|
+                      |_______________________________________ 8lcl|XP_804960.1
+
+
+
+
+subtree clade: 4lcl|AAZ10035.1: 142
+subtree clade: 9lcl|XP_814463.1: 52
+subtree clade: 8lcl|XP_804960.1: 64
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner2
+
+                      _______________________ 9lcl|XP_814463.1
+_____________________|
+                     |_________________________________________ 8lcl|XP_804960.1
+
+
+
+
+subtree clade: 9lcl|XP_814463.1: 52
+subtree clade: 8lcl|XP_804960.1: 64
+
+
+
+
+CLADES DA ARVORE tree_ORTHOMCL358:
+
+7lcl|XP_655103.2: 65
+6lcl|XP_655064.2: 6
+5lcl|CAA63555.1: 97
+1lcl|AAC47440.1: 29
+2lcl|AAN36041.1: 253
+4lcl|AAZ10035.1: 142
+9lcl|XP_814463.1: 52
+8lcl|XP_804960.1: 64
+3lcl|AAX79175.1: 66
+
+
+
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL320: 68
+
+
+SUBTREE:
+tree_ORTHOMCL320_Inner7
+
+ , 7lcl|XP_804874.1
+ |
+ | 8lcl|XP_811928.1
+ |
+ |  , 3lcl|XP_001685356.1
+ |__|
+_|  | 2lcl|XP_001683522.1
+ |
+ |                        _______________________________ 1lcl|XP_001350227.1
+ | ______________________|
+ ||                      |                   __ 6lcl|XP_652544.1
+ ||                      |__________________|
+ ||                                         |  _ 5lcl|XP_652305.1
+  |                                         |_|
+  |                                           |_ 4lcl|XP_652070.1
+  |
+  |__ 9lcl|XP_827937.1
+
+
+
+
+subtree clade: 7lcl|XP_804874.1: 3
+subtree clade: 8lcl|XP_811928.1: 181
+subtree clade: 3lcl|XP_001685356.1: 8
+subtree clade: 2lcl|XP_001683522.1: 58
+subtree clade: 1lcl|XP_001350227.1: 165
+subtree clade: 6lcl|XP_652544.1: 79
+subtree clade: 5lcl|XP_652305.1: 21
+subtree clade: 4lcl|XP_652070.1: 254
+subtree clade: 9lcl|XP_827937.1: 212
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL320_Inner6
+
+                                              _________________ 7lcl|XP_804874.1
+_____________________________________________|
+                                             |______ 8lcl|XP_811928.1
+
+
+
+
+subtree clade: 7lcl|XP_804874.1: 3
+subtree clade: 8lcl|XP_811928.1: 181
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL320_Inner4
+
+                                                         ___ 3lcl|XP_001685356.1
+________________________________________________________|
+                                                        |___ 2lcl|XP_001683522.1
+
+
+
+
+subtree clade: 3lcl|XP_001685356.1: 8
+subtree clade: 2lcl|XP_001683522.1: 58
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL320_Inner5
+
+                           _______________________________ 1lcl|XP_001350227.1
+   _______________________|
+  |                       |                   __ 6lcl|XP_652544.1
+  |                       |__________________|
+__|                                          | , 5lcl|XP_652305.1
+  |                                          |_|
+  |                                            |_ 4lcl|XP_652070.1
+  |
+  |__ 9lcl|XP_827937.1
+
+
+
+
+subtree clade: 1lcl|XP_001350227.1: 165
+subtree clade: 6lcl|XP_652544.1: 79
+subtree clade: 5lcl|XP_652305.1: 21
+subtree clade: 4lcl|XP_652070.1: 254
+subtree clade: 9lcl|XP_827937.1: 212
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL320_Inner3
+
+                           ________________________________ 1lcl|XP_001350227.1
+__________________________|
+                          |                   ___ 6lcl|XP_652544.1
+                          |__________________|
+                                             |  , 5lcl|XP_652305.1
+                                             |__|
+                                                | 4lcl|XP_652070.1
+
+
+
+
+subtree clade: 1lcl|XP_001350227.1: 165
+subtree clade: 6lcl|XP_652544.1: 79
+subtree clade: 5lcl|XP_652305.1: 21
+subtree clade: 4lcl|XP_652070.1: 254
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL320_Inner2
+
+                                                    ________ 6lcl|XP_652544.1
+___________________________________________________|
+                                                   |      ___ 5lcl|XP_652305.1
+                                                   |_____|
+                                                         |____ 4lcl|XP_652070.1
+
+
+
+
+subtree clade: 6lcl|XP_652544.1: 79
+subtree clade: 5lcl|XP_652305.1: 21
+subtree clade: 4lcl|XP_652070.1: 254
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL320_Inner1
+
+                                    ________________________ 5lcl|XP_652305.1
+___________________________________|
+                                   |___________________________ 4lcl|XP_652070.1
+
+
+
+
+subtree clade: 5lcl|XP_652305.1: 21
+subtree clade: 4lcl|XP_652070.1: 254
+
+
+
+
+CLADES DA ARVORE tree_ORTHOMCL320:
+
+7lcl|XP_804874.1: 3
+8lcl|XP_811928.1: 181
+3lcl|XP_001685356.1: 8
+2lcl|XP_001683522.1: 58
+1lcl|XP_001350227.1: 165
+6lcl|XP_652544.1: 79
+5lcl|XP_652305.1: 21
+4lcl|XP_652070.1: 254
+9lcl|XP_827937.1: 212
+
+
+
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL256_2: 17
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner8
+
+   _ 7lcl|XP_808221.1
+  |
+ ,|  ____ 10lcl|XP_822287.1
+ || |
+ || |                            ________________________ 2lcl|CAD51724.1
+ ||_|  _________________________|
+ |  | |                         |                      , 6lcl|XP_657212.1
+ |  | |                         |______________________|
+ |  | |                                                |, 5lcl|XP_656669.1
+ |  |_|                                                ||
+_|    |                                                 | 4lcl|XP_655599.1
+ |    |
+ |    |  ___ 1lcl|AAZ14427.1
+ |    |_|
+ |      |_____ 3lcl|XP_001683137.1
+ |
+ | 8lcl|XP_817439.1
+ |
+ | 9lcl|XP_817889.1
+
+
+
+
+subtree clade: 7lcl|XP_808221.1: 43
+subtree clade: 10lcl|XP_822287.1: 73
+subtree clade: 2lcl|CAD51724.1: 186
+subtree clade: 6lcl|XP_657212.1: 141
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+subtree clade: 1lcl|AAZ14427.1: 178
+subtree clade: 3lcl|XP_001683137.1: 21
+subtree clade: 8lcl|XP_817439.1: 181
+subtree clade: 9lcl|XP_817889.1: 108
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner7
+
+   _ 7lcl|XP_808221.1
+  |
+__|  ____ 10lcl|XP_822287.1
+  | |
+  | |                             _______________________ 2lcl|CAD51724.1
+  |_|  __________________________|
+    | |                          |                      , 6lcl|XP_657212.1
+    | |                          |______________________|
+    | |                                                 |, 5lcl|XP_656669.1
+    |_|                                                 ||
+      |                                                  | 4lcl|XP_655599.1
+      |
+      |  ___ 1lcl|AAZ14427.1
+      |_|
+        |_____ 3lcl|XP_001683137.1
+
+
+
+
+subtree clade: 7lcl|XP_808221.1: 43
+subtree clade: 10lcl|XP_822287.1: 73
+subtree clade: 2lcl|CAD51724.1: 186
+subtree clade: 6lcl|XP_657212.1: 141
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+subtree clade: 1lcl|AAZ14427.1: 178
+subtree clade: 3lcl|XP_001683137.1: 21
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner6
+
+    ____ 10lcl|XP_822287.1
+   |
+   |                             _________________________ 2lcl|CAD51724.1
+___|  __________________________|
+   | |                          |                       , 6lcl|XP_657212.1
+   | |                          |_______________________|
+   | |                                                  |, 5lcl|XP_656669.1
+   |_|                                                  ||
+     |                                                   | 4lcl|XP_655599.1
+     |
+     |  ___ 1lcl|AAZ14427.1
+     |_|
+       |_____ 3lcl|XP_001683137.1
+
+
+
+
+subtree clade: 10lcl|XP_822287.1: 73
+subtree clade: 2lcl|CAD51724.1: 186
+subtree clade: 6lcl|XP_657212.1: 141
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+subtree clade: 1lcl|AAZ14427.1: 178
+subtree clade: 3lcl|XP_001683137.1: 21
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner5
+
+                                __________________________ 2lcl|CAD51724.1
+    ___________________________|
+   |                           |                        , 6lcl|XP_657212.1
+   |                           |________________________|
+   |                                                    |, 5lcl|XP_656669.1
+___|                                                    ||
+   |                                                     | 4lcl|XP_655599.1
+   |
+   |  ___ 1lcl|AAZ14427.1
+   |_|
+     |_____ 3lcl|XP_001683137.1
+
+
+
+
+subtree clade: 2lcl|CAD51724.1: 186
+subtree clade: 6lcl|XP_657212.1: 141
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+subtree clade: 1lcl|AAZ14427.1: 178
+subtree clade: 3lcl|XP_001683137.1: 21
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner3
+
+                                 _____________________________ 2lcl|CAD51724.1
+________________________________|
+                                |                           , 6lcl|XP_657212.1
+                                |___________________________|
+                                                            |, 5lcl|XP_656669.1
+                                                            ||
+                                                             | 4lcl|XP_655599.1
+
+
+
+
+subtree clade: 2lcl|CAD51724.1: 186
+subtree clade: 6lcl|XP_657212.1: 141
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner2
+
+                                                            _ 6lcl|XP_657212.1
+___________________________________________________________|
+                                                           | _ 5lcl|XP_656669.1
+                                                           ||
+                                                            | 4lcl|XP_655599.1
+
+
+
+
+subtree clade: 6lcl|XP_657212.1: 141
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner1
+
+                                     __________________________ 5lcl|XP_656669.1
+____________________________________|
+                                    |____________________ 4lcl|XP_655599.1
+
+
+
+
+subtree clade: 5lcl|XP_656669.1: 218
+subtree clade: 4lcl|XP_655599.1: 59
+
+
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner4
+
+                  ________________________________ 1lcl|AAZ14427.1
+_________________|
+                 |__________________________________________ 3lcl|XP_001683137.1
+
+
+
+
+subtree clade: 1lcl|AAZ14427.1: 178
+subtree clade: 3lcl|XP_001683137.1: 21
+
+
+
+
+CLADES DA ARVORE tree_ORTHOMCL256_2:
+
+7lcl|XP_808221.1: 43
+10lcl|XP_822287.1: 73
+2lcl|CAD51724.1: 186
+6lcl|XP_657212.1: 141
+5lcl|XP_656669.1: 218
+4lcl|XP_655599.1: 59
+1lcl|AAZ14427.1: 178
+3lcl|XP_001683137.1: 21
+8lcl|XP_817439.1: 181
+9lcl|XP_817889.1: 108
+
+
+
+
+HASH KEY ARRAY BEFORE NORMALIZING
+
+[236, 176, 58, 88, 70, 102]
+[217, 102, 176, 58, 88, 70, 236]
+[58, 70, 88]
+[143, 217, 236, 102, 58, 70, 88, 176]
+[217, 236, 58, 70, 88, 176, 102]
+[217, 102, 88, 176, 58, 236, 70]
+[217, 236, 176, 102, 58, 70, 88]
+[143, 217, 236, 102, 58, 70, 88, 176]
+DIM: 8x8
+
+HASH KEY ARRAY AFTER NORMALIZING
+
+[236, 176, 58, 88, 70, 102, -1, -1]
+[217, 102, 176, 58, 88, 70, 236, -1]
+[58, 70, 88, -1, -1, -1, -1, -1]
+[143, 217, 236, 102, 58, 70, 88, 176]
+[217, 236, 58, 70, 88, 176, 102, -1]
+[217, 102, 88, 176, 58, 236, 70, -1]
+[217, 236, 176, 102, 58, 70, 88, -1]
+[143, 217, 236, 102, 58, 70, 88, 176]
