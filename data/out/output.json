@@ -1,1268 +1,5 @@
 [
   {
-    "tree_ORTHOMCL371": {
-      "tree_ORTHOMCL371_Inner6": {
-        "Terminals": [
-          198,
-          85,
-          226,
-          33,
-          104,
-          99,
-          165,
-          225
-        ],
-        "List_terminals_hash": 141,
-        "data_terminals": [
-          {
-            "newick": "9lcl|XP_808090.1",
-            "terrminal_hash": 198
-          },
-          {
-            "newick": "7lcl|XP_657214.1",
-            "terrminal_hash": 85
-          },
-          {
-            "newick": "6lcl|XP_652365.1",
-            "terrminal_hash": 226
-          },
-          {
-            "newick": "1lcl|AAA29508.1",
-            "terrminal_hash": 33
-          },
-          {
-            "newick": "2lcl|AAA29509.1",
-            "terrminal_hash": 104
-          },
-          {
-            "newick": "8lcl|XP_808089.1",
-            "terrminal_hash": 99
-          },
-          {
-            "newick": "3lcl|CAA36316.1",
-            "terrminal_hash": 165
-          },
-          {
-            "newick": "4lcl|CAA39861.1",
-            "terrminal_hash": 225
-          }
-        ]
-      },
-      "tree_ORTHOMCL371_Inner4": {
-        "Terminals": [
-          198,
-          85,
-          226,
-          33,
-          104
-        ],
-        "List_terminals_hash": 145,
-        "data_terminals": [
-          {
-            "newick": "9lcl|XP_808090.1",
-            "terrminal_hash": 198
-          },
-          {
-            "newick": "7lcl|XP_657214.1",
-            "terrminal_hash": 85
-          },
-          {
-            "newick": "6lcl|XP_652365.1",
-            "terrminal_hash": 226
-          },
-          {
-            "newick": "1lcl|AAA29508.1",
-            "terrminal_hash": 33
-          },
-          {
-            "newick": "2lcl|AAA29509.1",
-            "terrminal_hash": 104
-          }
-        ]
-      },
-      "tree_ORTHOMCL371_Inner3": {
-        "Terminals": [
-          85,
-          226,
-          33,
-          104
-        ],
-        "List_terminals_hash": 56,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_657214.1",
-            "terrminal_hash": 85
-          },
-          {
-            "newick": "6lcl|XP_652365.1",
-            "terrminal_hash": 226
-          },
-          {
-            "newick": "1lcl|AAA29508.1",
-            "terrminal_hash": 33
-          },
-          {
-            "newick": "2lcl|AAA29509.1",
-            "terrminal_hash": 104
-          }
-        ]
-      },
-      "tree_ORTHOMCL371_Inner1": {
-        "Terminals": [
-          85,
-          226
-        ],
-        "List_terminals_hash": 136,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_657214.1",
-            "terrminal_hash": 85
-          },
-          {
-            "newick": "6lcl|XP_652365.1",
-            "terrminal_hash": 226
-          }
-        ]
-      },
-      "tree_ORTHOMCL371_Inner2": {
-        "Terminals": [
-          33,
-          104
-        ],
-        "List_terminals_hash": 63,
-        "data_terminals": [
-          {
-            "newick": "1lcl|AAA29508.1",
-            "terrminal_hash": 33
-          },
-          {
-            "newick": "2lcl|AAA29509.1",
-            "terrminal_hash": 104
-          }
-        ]
-      },
-      "tree_ORTHOMCL371_Inner5": {
-        "Terminals": [
-          99,
-          165
-        ],
-        "List_terminals_hash": 85,
-        "data_terminals": [
-          {
-            "newick": "8lcl|XP_808089.1",
-            "terrminal_hash": 99
-          },
-          {
-            "newick": "3lcl|CAA36316.1",
-            "terrminal_hash": 165
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tree_ORTHOMCL337": {
-      "tree_ORTHOMCL337_Inner7": {
-        "Terminals": [
-          123,
-          117,
-          44,
-          175,
-          103,
-          16,
-          162,
-          10,
-          171
-        ],
-        "List_terminals_hash": 123,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_653142.1",
-            "terrminal_hash": 123
-          },
-          {
-            "newick": "2lcl|AAX79562.1",
-            "terrminal_hash": 117
-          },
-          {
-            "newick": "9lcl|XP_817430.1",
-            "terrminal_hash": 44
-          },
-          {
-            "newick": "8lcl|XP_814268.1",
-            "terrminal_hash": 175
-          },
-          {
-            "newick": "1lcl|AAN08877.1",
-            "terrminal_hash": 103
-          },
-          {
-            "newick": "6lcl|XP_001681074.1",
-            "terrminal_hash": 16
-          },
-          {
-            "newick": "5lcl|XP_001350045.1",
-            "terrminal_hash": 162
-          },
-          {
-            "newick": "4lcl|ABB91447.1",
-            "terrminal_hash": 10
-          },
-          {
-            "newick": "3lcl|ABB91446.1",
-            "terrminal_hash": 171
-          }
-        ]
-      },
-      "tree_ORTHOMCL337_Inner5": {
-        "Terminals": [
-          123,
-          117,
-          44,
-          175,
-          103,
-          16
-        ],
-        "List_terminals_hash": 157,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_653142.1",
-            "terrminal_hash": 123
-          },
-          {
-            "newick": "2lcl|AAX79562.1",
-            "terrminal_hash": 117
-          },
-          {
-            "newick": "9lcl|XP_817430.1",
-            "terrminal_hash": 44
-          },
-          {
-            "newick": "8lcl|XP_814268.1",
-            "terrminal_hash": 175
-          },
-          {
-            "newick": "1lcl|AAN08877.1",
-            "terrminal_hash": 103
-          },
-          {
-            "newick": "6lcl|XP_001681074.1",
-            "terrminal_hash": 16
-          }
-        ]
-      },
-      "tree_ORTHOMCL337_Inner4": {
-        "Terminals": [
-          117,
-          44,
-          175,
-          103,
-          16
-        ],
-        "List_terminals_hash": 81,
-        "data_terminals": [
-          {
-            "newick": "2lcl|AAX79562.1",
-            "terrminal_hash": 117
-          },
-          {
-            "newick": "9lcl|XP_817430.1",
-            "terrminal_hash": 44
-          },
-          {
-            "newick": "8lcl|XP_814268.1",
-            "terrminal_hash": 175
-          },
-          {
-            "newick": "1lcl|AAN08877.1",
-            "terrminal_hash": 103
-          },
-          {
-            "newick": "6lcl|XP_001681074.1",
-            "terrminal_hash": 16
-          }
-        ]
-      },
-      "tree_ORTHOMCL337_Inner3": {
-        "Terminals": [
-          117,
-          44,
-          175
-        ],
-        "List_terminals_hash": 40,
-        "data_terminals": [
-          {
-            "newick": "2lcl|AAX79562.1",
-            "terrminal_hash": 117
-          },
-          {
-            "newick": "9lcl|XP_817430.1",
-            "terrminal_hash": 44
-          },
-          {
-            "newick": "8lcl|XP_814268.1",
-            "terrminal_hash": 175
-          }
-        ]
-      },
-      "tree_ORTHOMCL337_Inner1": {
-        "Terminals": [
-          44,
-          175
-        ],
-        "List_terminals_hash": 29,
-        "data_terminals": [
-          {
-            "newick": "9lcl|XP_817430.1",
-            "terrminal_hash": 44
-          },
-          {
-            "newick": "8lcl|XP_814268.1",
-            "terrminal_hash": 175
-          }
-        ]
-      },
-      "tree_ORTHOMCL337_Inner2": {
-        "Terminals": [
-          103,
-          16
-        ],
-        "List_terminals_hash": 135,
-        "data_terminals": [
-          {
-            "newick": "1lcl|AAN08877.1",
-            "terrminal_hash": 103
-          },
-          {
-            "newick": "6lcl|XP_001681074.1",
-            "terrminal_hash": 16
-          }
-        ]
-      },
-      "tree_ORTHOMCL337_Inner6": {
-        "Terminals": [
-          162,
-          10
-        ],
-        "List_terminals_hash": 241,
-        "data_terminals": [
-          {
-            "newick": "5lcl|XP_001350045.1",
-            "terrminal_hash": 162
-          },
-          {
-            "newick": "4lcl|ABB91447.1",
-            "terrminal_hash": 10
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tree_ORTHOMCL1": {
-      "tree_ORTHOMCL1_Inner3": {
-        "Terminals": [
-          59,
-          35,
-          191,
-          47,
-          63
-        ],
-        "List_terminals_hash": 7,
-        "data_terminals": [
-          {
-            "newick": "1lcl|AAG00459.1",
-            "terrminal_hash": 59
-          },
-          {
-            "newick": "5lcl|XP_813700.1",
-            "terrminal_hash": 35
-          },
-          {
-            "newick": "3lcl|AAZ14670.1",
-            "terrminal_hash": 191
-          },
-          {
-            "newick": "4lcl|XP_653680.1",
-            "terrminal_hash": 47
-          },
-          {
-            "newick": "2lcl|AAN35864.1",
-            "terrminal_hash": 63
-          }
-        ]
-      },
-      "tree_ORTHOMCL1_Inner2": {
-        "Terminals": [
-          59,
-          35
-        ],
-        "List_terminals_hash": 79,
-        "data_terminals": [
-          {
-            "newick": "1lcl|AAG00459.1",
-            "terrminal_hash": 59
-          },
-          {
-            "newick": "5lcl|XP_813700.1",
-            "terrminal_hash": 35
-          }
-        ]
-      },
-      "tree_ORTHOMCL1_Inner1": {
-        "Terminals": [
-          47,
-          63
-        ],
-        "List_terminals_hash": 94,
-        "data_terminals": [
-          {
-            "newick": "4lcl|XP_653680.1",
-            "terrminal_hash": 47
-          },
-          {
-            "newick": "2lcl|AAN35864.1",
-            "terrminal_hash": 63
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tree_ORTHOMCL256": {
-      "tree_ORTHOMCL256_Inner8": {
-        "Terminals": [
-          43,
-          73,
-          186,
-          3,
-          218,
-          59,
-          131,
-          21,
-          181,
-          108
-        ],
-        "List_terminals_hash": 32,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_808221.1",
-            "terrminal_hash": 43
-          },
-          {
-            "newick": "10lcl|XP_822287.1",
-            "terrminal_hash": 73
-          },
-          {
-            "newick": "2lcl|CAD51724.1",
-            "terrminal_hash": 186
-          },
-          {
-            "newick": "6lcl|XP_657219.1",
-            "terrminal_hash": 3
-          },
-          {
-            "newick": "5lcl|XP_656669.1",
-            "terrminal_hash": 218
-          },
-          {
-            "newick": "4lcl|XP_655599.1",
-            "terrminal_hash": 59
-          },
-          {
-            "newick": "1lcl|AAZ14428.1",
-            "terrminal_hash": 131
-          },
-          {
-            "newick": "3lcl|XP_001683137.1",
-            "terrminal_hash": 21
-          },
-          {
-            "newick": "8lcl|XP_817439.1",
-            "terrminal_hash": 181
-          },
-          {
-            "newick": "9lcl|XP_817889.1",
-            "terrminal_hash": 108
-          }
-        ]
-      },
-      "tree_ORTHOMCL256_Inner7": {
-        "Terminals": [
-          43,
-          73,
-          186,
-          3,
-          218,
-          59,
-          131,
-          21
-        ],
-        "List_terminals_hash": 45,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_808221.1",
-            "terrminal_hash": 43
-          },
-          {
-            "newick": "10lcl|XP_822287.1",
-            "terrminal_hash": 73
-          },
-          {
-            "newick": "2lcl|CAD51724.1",
-            "terrminal_hash": 186
-          },
-          {
-            "newick": "6lcl|XP_657219.1",
-            "terrminal_hash": 3
-          },
-          {
-            "newick": "5lcl|XP_656669.1",
-            "terrminal_hash": 218
-          },
-          {
-            "newick": "4lcl|XP_655599.1",
-            "terrminal_hash": 59
-          },
-          {
-            "newick": "1lcl|AAZ14428.1",
-            "terrminal_hash": 131
-          },
-          {
-            "newick": "3lcl|XP_001683137.1",
-            "terrminal_hash": 21
-          }
-        ]
-      },
-      "tree_ORTHOMCL256_Inner6": {
-        "Terminals": [
-          73,
-          186,
-          3,
-          218,
-          59,
-          131,
-          21
-        ],
-        "List_terminals_hash": 72,
-        "data_terminals": [
-          {
-            "newick": "10lcl|XP_822287.1",
-            "terrminal_hash": 73
-          },
-          {
-            "newick": "2lcl|CAD51724.1",
-            "terrminal_hash": 186
-          },
-          {
-            "newick": "6lcl|XP_657219.1",
-            "terrminal_hash": 3
-          },
-          {
-            "newick": "5lcl|XP_656669.1",
-            "terrminal_hash": 218
-          },
-          {
-            "newick": "4lcl|XP_655599.1",
-            "terrminal_hash": 59
-          },
-          {
-            "newick": "1lcl|AAZ14428.1",
-            "terrminal_hash": 131
-          },
-          {
-            "newick": "3lcl|XP_001683137.1",
-            "terrminal_hash": 21
-          }
-        ]
-      },
-      "tree_ORTHOMCL256_Inner5": {
-        "Terminals": [
-          186,
-          3,
-          218,
-          59,
-          131,
-          21
-        ],
-        "List_terminals_hash": 17,
-        "data_terminals": [
-          {
-            "newick": "2lcl|CAD51724.1",
-            "terrminal_hash": 186
-          },
-          {
-            "newick": "6lcl|XP_657219.1",
-            "terrminal_hash": 3
-          },
-          {
-            "newick": "5lcl|XP_656669.1",
-            "terrminal_hash": 218
-          },
-          {
-            "newick": "4lcl|XP_655599.1",
-            "terrminal_hash": 59
-          },
-          {
-            "newick": "1lcl|AAZ14428.1",
-            "terrminal_hash": 131
-          },
-          {
-            "newick": "3lcl|XP_001683137.1",
-            "terrminal_hash": 21
-          }
-        ]
-      },
-      "tree_ORTHOMCL256_Inner3": {
-        "Terminals": [
-          186,
-          3,
-          218,
-          59
-        ],
-        "List_terminals_hash": 14,
-        "data_terminals": [
-          {
-            "newick": "2lcl|CAD51724.1",
-            "terrminal_hash": 186
-          },
-          {
-            "newick": "6lcl|XP_657219.1",
-            "terrminal_hash": 3
-          },
-          {
-            "newick": "5lcl|XP_656669.1",
-            "terrminal_hash": 218
-          },
-          {
-            "newick": "4lcl|XP_655599.1",
-            "terrminal_hash": 59
-          }
-        ]
-      },
-      "tree_ORTHOMCL256_Inner2": {
-        "Terminals": [
-          3,
-          218,
-          59
-        ],
-        "List_terminals_hash": 137,
-        "data_terminals": [
-          {
-            "newick": "6lcl|XP_657219.1",
-            "terrminal_hash": 3
-          },
-          {
-            "newick": "5lcl|XP_656669.1",
-            "terrminal_hash": 218
-          },
-          {
-            "newick": "4lcl|XP_655599.1",
-            "terrminal_hash": 59
-          }
-        ]
-      },
-      "tree_ORTHOMCL256_Inner1": {
-        "Terminals": [
-          218,
-          59
-        ],
-        "List_terminals_hash": 41,
-        "data_terminals": [
-          {
-            "newick": "5lcl|XP_656669.1",
-            "terrminal_hash": 218
-          },
-          {
-            "newick": "4lcl|XP_655599.1",
-            "terrminal_hash": 59
-          }
-        ]
-      },
-      "tree_ORTHOMCL256_Inner4": {
-        "Terminals": [
-          131,
-          21
-        ],
-        "List_terminals_hash": 196,
-        "data_terminals": [
-          {
-            "newick": "1lcl|AAZ14428.1",
-            "terrminal_hash": 131
-          },
-          {
-            "newick": "3lcl|XP_001683137.1",
-            "terrminal_hash": 21
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tree_ORTHOMCL364": {
-      "tree_ORTHOMCL364_Inner7": {
-        "Terminals": [
-          181,
-          164,
-          17,
-          176,
-          120,
-          122,
-          33,
-          27,
-          42
-        ],
-        "List_terminals_hash": 162,
-        "data_terminals": [
-          {
-            "newick": "4lcl|AAZ09536.1",
-            "terrminal_hash": 181
-          },
-          {
-            "newick": "1lcl|AAA73081.1",
-            "terrminal_hash": 164
-          },
-          {
-            "newick": "9lcl|XP_818131.1",
-            "terrminal_hash": 17
-          },
-          {
-            "newick": "8lcl|XP_810170.1",
-            "terrminal_hash": 176
-          },
-          {
-            "newick": "6lcl|XP_653586.1",
-            "terrminal_hash": 120
-          },
-          {
-            "newick": "7lcl|XP_657292.1",
-            "terrminal_hash": 122
-          },
-          {
-            "newick": "3lcl|AAF15357.1",
-            "terrminal_hash": 33
-          },
-          {
-            "newick": "2lcl|AAC41606.1",
-            "terrminal_hash": 27
-          },
-          {
-            "newick": "5lcl|XP_001349346.1",
-            "terrminal_hash": 42
-          }
-        ]
-      },
-      "tree_ORTHOMCL364_Inner6": {
-        "Terminals": [
-          181,
-          164,
-          17,
-          176,
-          120,
-          122
-        ],
-        "List_terminals_hash": 48,
-        "data_terminals": [
-          {
-            "newick": "4lcl|AAZ09536.1",
-            "terrminal_hash": 181
-          },
-          {
-            "newick": "1lcl|AAA73081.1",
-            "terrminal_hash": 164
-          },
-          {
-            "newick": "9lcl|XP_818131.1",
-            "terrminal_hash": 17
-          },
-          {
-            "newick": "8lcl|XP_810170.1",
-            "terrminal_hash": 176
-          },
-          {
-            "newick": "6lcl|XP_653586.1",
-            "terrminal_hash": 120
-          },
-          {
-            "newick": "7lcl|XP_657292.1",
-            "terrminal_hash": 122
-          }
-        ]
-      },
-      "tree_ORTHOMCL364_Inner3": {
-        "Terminals": [
-          181,
-          164,
-          17,
-          176
-        ],
-        "List_terminals_hash": 36,
-        "data_terminals": [
-          {
-            "newick": "4lcl|AAZ09536.1",
-            "terrminal_hash": 181
-          },
-          {
-            "newick": "1lcl|AAA73081.1",
-            "terrminal_hash": 164
-          },
-          {
-            "newick": "9lcl|XP_818131.1",
-            "terrminal_hash": 17
-          },
-          {
-            "newick": "8lcl|XP_810170.1",
-            "terrminal_hash": 176
-          }
-        ]
-      },
-      "tree_ORTHOMCL364_Inner2": {
-        "Terminals": [
-          164,
-          17,
-          176
-        ],
-        "List_terminals_hash": 215,
-        "data_terminals": [
-          {
-            "newick": "1lcl|AAA73081.1",
-            "terrminal_hash": 164
-          },
-          {
-            "newick": "9lcl|XP_818131.1",
-            "terrminal_hash": 17
-          },
-          {
-            "newick": "8lcl|XP_810170.1",
-            "terrminal_hash": 176
-          }
-        ]
-      },
-      "tree_ORTHOMCL364_Inner1": {
-        "Terminals": [
-          17,
-          176
-        ],
-        "List_terminals_hash": 66,
-        "data_terminals": [
-          {
-            "newick": "9lcl|XP_818131.1",
-            "terrminal_hash": 17
-          },
-          {
-            "newick": "8lcl|XP_810170.1",
-            "terrminal_hash": 176
-          }
-        ]
-      },
-      "tree_ORTHOMCL364_Inner4": {
-        "Terminals": [
-          120,
-          122
-        ],
-        "List_terminals_hash": 250,
-        "data_terminals": [
-          {
-            "newick": "6lcl|XP_653586.1",
-            "terrminal_hash": 120
-          },
-          {
-            "newick": "7lcl|XP_657292.1",
-            "terrminal_hash": 122
-          }
-        ]
-      },
-      "tree_ORTHOMCL364_Inner5": {
-        "Terminals": [
-          33,
-          27
-        ],
-        "List_terminals_hash": 209,
-        "data_terminals": [
-          {
-            "newick": "3lcl|AAF15357.1",
-            "terrminal_hash": 33
-          },
-          {
-            "newick": "2lcl|AAC41606.1",
-            "terrminal_hash": 27
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tree_ORTHOMCL358": {
-      "tree_ORTHOMCL358_Inner7": {
-        "Terminals": [
-          65,
-          6,
-          97,
-          29,
-          253,
-          142,
-          52,
-          64,
-          66
-        ],
-        "List_terminals_hash": 240,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_655103.2",
-            "terrminal_hash": 65
-          },
-          {
-            "newick": "6lcl|XP_655064.2",
-            "terrminal_hash": 6
-          },
-          {
-            "newick": "5lcl|CAA63555.1",
-            "terrminal_hash": 97
-          },
-          {
-            "newick": "1lcl|AAC47440.1",
-            "terrminal_hash": 29
-          },
-          {
-            "newick": "2lcl|AAN36041.1",
-            "terrminal_hash": 253
-          },
-          {
-            "newick": "4lcl|AAZ10035.1",
-            "terrminal_hash": 142
-          },
-          {
-            "newick": "9lcl|XP_814463.1",
-            "terrminal_hash": 52
-          },
-          {
-            "newick": "8lcl|XP_804960.1",
-            "terrminal_hash": 64
-          },
-          {
-            "newick": "3lcl|AAX79175.1",
-            "terrminal_hash": 66
-          }
-        ]
-      },
-      "tree_ORTHOMCL358_Inner5": {
-        "Terminals": [
-          65,
-          6,
-          97,
-          29,
-          253
-        ],
-        "List_terminals_hash": 82,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_655103.2",
-            "terrminal_hash": 65
-          },
-          {
-            "newick": "6lcl|XP_655064.2",
-            "terrminal_hash": 6
-          },
-          {
-            "newick": "5lcl|CAA63555.1",
-            "terrminal_hash": 97
-          },
-          {
-            "newick": "1lcl|AAC47440.1",
-            "terrminal_hash": 29
-          },
-          {
-            "newick": "2lcl|AAN36041.1",
-            "terrminal_hash": 253
-          }
-        ]
-      },
-      "tree_ORTHOMCL358_Inner1": {
-        "Terminals": [
-          65,
-          6
-        ],
-        "List_terminals_hash": 16,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_655103.2",
-            "terrminal_hash": 65
-          },
-          {
-            "newick": "6lcl|XP_655064.2",
-            "terrminal_hash": 6
-          }
-        ]
-      },
-      "tree_ORTHOMCL358_Inner4": {
-        "Terminals": [
-          97,
-          29,
-          253
-        ],
-        "List_terminals_hash": 13,
-        "data_terminals": [
-          {
-            "newick": "5lcl|CAA63555.1",
-            "terrminal_hash": 97
-          },
-          {
-            "newick": "1lcl|AAC47440.1",
-            "terrminal_hash": 29
-          },
-          {
-            "newick": "2lcl|AAN36041.1",
-            "terrminal_hash": 253
-          }
-        ]
-      },
-      "tree_ORTHOMCL358_Inner3": {
-        "Terminals": [
-          97,
-          29
-        ],
-        "List_terminals_hash": 245,
-        "data_terminals": [
-          {
-            "newick": "5lcl|CAA63555.1",
-            "terrminal_hash": 97
-          },
-          {
-            "newick": "1lcl|AAC47440.1",
-            "terrminal_hash": 29
-          }
-        ]
-      },
-      "tree_ORTHOMCL358_Inner6": {
-        "Terminals": [
-          142,
-          52,
-          64
-        ],
-        "List_terminals_hash": 218,
-        "data_terminals": [
-          {
-            "newick": "4lcl|AAZ10035.1",
-            "terrminal_hash": 142
-          },
-          {
-            "newick": "9lcl|XP_814463.1",
-            "terrminal_hash": 52
-          },
-          {
-            "newick": "8lcl|XP_804960.1",
-            "terrminal_hash": 64
-          }
-        ]
-      },
-      "tree_ORTHOMCL358_Inner2": {
-        "Terminals": [
-          52,
-          64
-        ],
-        "List_terminals_hash": 169,
-        "data_terminals": [
-          {
-            "newick": "9lcl|XP_814463.1",
-            "terrminal_hash": 52
-          },
-          {
-            "newick": "8lcl|XP_804960.1",
-            "terrminal_hash": 64
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tree_ORTHOMCL320": {
-      "tree_ORTHOMCL320_Inner7": {
-        "Terminals": [
-          3,
-          181,
-          8,
-          58,
-          165,
-          79,
-          21,
-          254,
-          212
-        ],
-        "List_terminals_hash": 42,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_804874.1",
-            "terrminal_hash": 3
-          },
-          {
-            "newick": "8lcl|XP_811928.1",
-            "terrminal_hash": 181
-          },
-          {
-            "newick": "3lcl|XP_001685356.1",
-            "terrminal_hash": 8
-          },
-          {
-            "newick": "2lcl|XP_001683522.1",
-            "terrminal_hash": 58
-          },
-          {
-            "newick": "1lcl|XP_001350227.1",
-            "terrminal_hash": 165
-          },
-          {
-            "newick": "6lcl|XP_652544.1",
-            "terrminal_hash": 79
-          },
-          {
-            "newick": "5lcl|XP_652305.1",
-            "terrminal_hash": 21
-          },
-          {
-            "newick": "4lcl|XP_652070.1",
-            "terrminal_hash": 254
-          },
-          {
-            "newick": "9lcl|XP_827937.1",
-            "terrminal_hash": 212
-          }
-        ]
-      },
-      "tree_ORTHOMCL320_Inner6": {
-        "Terminals": [
-          3,
-          181
-        ],
-        "List_terminals_hash": 36,
-        "data_terminals": [
-          {
-            "newick": "7lcl|XP_804874.1",
-            "terrminal_hash": 3
-          },
-          {
-            "newick": "8lcl|XP_811928.1",
-            "terrminal_hash": 181
-          }
-        ]
-      },
-      "tree_ORTHOMCL320_Inner4": {
-        "Terminals": [
-          8,
-          58
-        ],
-        "List_terminals_hash": 71,
-        "data_terminals": [
-          {
-            "newick": "3lcl|XP_001685356.1",
-            "terrminal_hash": 8
-          },
-          {
-            "newick": "2lcl|XP_001683522.1",
-            "terrminal_hash": 58
-          }
-        ]
-      },
-      "tree_ORTHOMCL320_Inner5": {
-        "Terminals": [
-          165,
-          79,
-          21,
-          254,
-          212
-        ],
-        "List_terminals_hash": 110,
-        "data_terminals": [
-          {
-            "newick": "1lcl|XP_001350227.1",
-            "terrminal_hash": 165
-          },
-          {
-            "newick": "6lcl|XP_652544.1",
-            "terrminal_hash": 79
-          },
-          {
-            "newick": "5lcl|XP_652305.1",
-            "terrminal_hash": 21
-          },
-          {
-            "newick": "4lcl|XP_652070.1",
-            "terrminal_hash": 254
-          },
-          {
-            "newick": "9lcl|XP_827937.1",
-            "terrminal_hash": 212
-          }
-        ]
-      },
-      "tree_ORTHOMCL320_Inner3": {
-        "Terminals": [
-          165,
-          79,
-          21,
-          254
-        ],
-        "List_terminals_hash": 46,
-        "data_terminals": [
-          {
-            "newick": "1lcl|XP_001350227.1",
-            "terrminal_hash": 165
-          },
-          {
-            "newick": "6lcl|XP_652544.1",
-            "terrminal_hash": 79
-          },
-          {
-            "newick": "5lcl|XP_652305.1",
-            "terrminal_hash": 21
-          },
-          {
-            "newick": "4lcl|XP_652070.1",
-            "terrminal_hash": 254
-          }
-        ]
-      },
-      "tree_ORTHOMCL320_Inner2": {
-        "Terminals": [
-          79,
-          21,
-          254
-        ],
-        "List_terminals_hash": 178,
-        "data_terminals": [
-          {
-            "newick": "6lcl|XP_652544.1",
-            "terrminal_hash": 79
-          },
-          {
-            "newick": "5lcl|XP_652305.1",
-            "terrminal_hash": 21
-          },
-          {
-            "newick": "4lcl|XP_652070.1",
-            "terrminal_hash": 254
-          }
-        ]
-      },
-      "tree_ORTHOMCL320_Inner1": {
-        "Terminals": [
-          21,
-          254
-        ],
-        "List_terminals_hash": 190,
-        "data_terminals": [
-          {
-            "newick": "5lcl|XP_652305.1",
-            "terrminal_hash": 21
-          },
-          {
-            "newick": "4lcl|XP_652070.1",
-            "terrminal_hash": 254
-          }
-        ]
-      }
-    }
-  },
-  {
     "tree_ORTHOMCL256_2": {
       "tree_ORTHOMCL256_2_Inner8": {
         "Terminals": [
@@ -1277,7 +14,21 @@
           181,
           108
         ],
-        "List_terminals_hash": 84,
+        "List_terminals_hash": {
+          "list": [
+            43,
+            73,
+            186,
+            141,
+            218,
+            59,
+            178,
+            21,
+            181,
+            108
+          ],
+          "encode_list": 84
+        },
         "data_terminals": [
           {
             "newick": "7lcl|XP_808221.1",
@@ -1332,7 +83,19 @@
           178,
           21
         ],
-        "List_terminals_hash": 222,
+        "List_terminals_hash": {
+          "list": [
+            43,
+            73,
+            186,
+            141,
+            218,
+            59,
+            178,
+            21
+          ],
+          "encode_list": 222
+        },
         "data_terminals": [
           {
             "newick": "7lcl|XP_808221.1",
@@ -1378,7 +141,18 @@
           178,
           21
         ],
-        "List_terminals_hash": 28,
+        "List_terminals_hash": {
+          "list": [
+            73,
+            186,
+            141,
+            218,
+            59,
+            178,
+            21
+          ],
+          "encode_list": 28
+        },
         "data_terminals": [
           {
             "newick": "10lcl|XP_822287.1",
@@ -1419,7 +193,17 @@
           178,
           21
         ],
-        "List_terminals_hash": 50,
+        "List_terminals_hash": {
+          "list": [
+            186,
+            141,
+            218,
+            59,
+            178,
+            21
+          ],
+          "encode_list": 50
+        },
         "data_terminals": [
           {
             "newick": "2lcl|CAD51724.1",
@@ -1454,7 +238,15 @@
           218,
           59
         ],
-        "List_terminals_hash": 16,
+        "List_terminals_hash": {
+          "list": [
+            186,
+            141,
+            218,
+            59
+          ],
+          "encode_list": 16
+        },
         "data_terminals": [
           {
             "newick": "2lcl|CAD51724.1",
@@ -1480,7 +272,14 @@
           218,
           59
         ],
-        "List_terminals_hash": 49,
+        "List_terminals_hash": {
+          "list": [
+            141,
+            218,
+            59
+          ],
+          "encode_list": 49
+        },
         "data_terminals": [
           {
             "newick": "6lcl|XP_657212.1",
@@ -1501,7 +300,13 @@
           218,
           59
         ],
-        "List_terminals_hash": 41,
+        "List_terminals_hash": {
+          "list": [
+            218,
+            59
+          ],
+          "encode_list": 41
+        },
         "data_terminals": [
           {
             "newick": "5lcl|XP_656669.1",
@@ -1518,7 +323,13 @@
           178,
           21
         ],
-        "List_terminals_hash": 229,
+        "List_terminals_hash": {
+          "list": [
+            178,
+            21
+          ],
+          "encode_list": 229
+        },
         "data_terminals": [
           {
             "newick": "1lcl|AAZ14427.1",
@@ -1527,6 +338,1633 @@
           {
             "newick": "3lcl|XP_001683137.1",
             "terrminal_hash": 21
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tree_ORTHOMCL371": {
+      "tree_ORTHOMCL371_Inner6": {
+        "Terminals": [
+          198,
+          85,
+          226,
+          33,
+          104,
+          99,
+          165,
+          225
+        ],
+        "List_terminals_hash": {
+          "list": [
+            198,
+            85,
+            226,
+            33,
+            104,
+            99,
+            165,
+            225
+          ],
+          "encode_list": 141
+        },
+        "data_terminals": [
+          {
+            "newick": "9lcl|XP_808090.1",
+            "terrminal_hash": 198
+          },
+          {
+            "newick": "7lcl|XP_657214.1",
+            "terrminal_hash": 85
+          },
+          {
+            "newick": "6lcl|XP_652365.1",
+            "terrminal_hash": 226
+          },
+          {
+            "newick": "1lcl|AAA29508.1",
+            "terrminal_hash": 33
+          },
+          {
+            "newick": "2lcl|AAA29509.1",
+            "terrminal_hash": 104
+          },
+          {
+            "newick": "8lcl|XP_808089.1",
+            "terrminal_hash": 99
+          },
+          {
+            "newick": "3lcl|CAA36316.1",
+            "terrminal_hash": 165
+          },
+          {
+            "newick": "4lcl|CAA39861.1",
+            "terrminal_hash": 225
+          }
+        ]
+      },
+      "tree_ORTHOMCL371_Inner4": {
+        "Terminals": [
+          198,
+          85,
+          226,
+          33,
+          104
+        ],
+        "List_terminals_hash": {
+          "list": [
+            198,
+            85,
+            226,
+            33,
+            104
+          ],
+          "encode_list": 145
+        },
+        "data_terminals": [
+          {
+            "newick": "9lcl|XP_808090.1",
+            "terrminal_hash": 198
+          },
+          {
+            "newick": "7lcl|XP_657214.1",
+            "terrminal_hash": 85
+          },
+          {
+            "newick": "6lcl|XP_652365.1",
+            "terrminal_hash": 226
+          },
+          {
+            "newick": "1lcl|AAA29508.1",
+            "terrminal_hash": 33
+          },
+          {
+            "newick": "2lcl|AAA29509.1",
+            "terrminal_hash": 104
+          }
+        ]
+      },
+      "tree_ORTHOMCL371_Inner3": {
+        "Terminals": [
+          85,
+          226,
+          33,
+          104
+        ],
+        "List_terminals_hash": {
+          "list": [
+            85,
+            226,
+            33,
+            104
+          ],
+          "encode_list": 56
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_657214.1",
+            "terrminal_hash": 85
+          },
+          {
+            "newick": "6lcl|XP_652365.1",
+            "terrminal_hash": 226
+          },
+          {
+            "newick": "1lcl|AAA29508.1",
+            "terrminal_hash": 33
+          },
+          {
+            "newick": "2lcl|AAA29509.1",
+            "terrminal_hash": 104
+          }
+        ]
+      },
+      "tree_ORTHOMCL371_Inner1": {
+        "Terminals": [
+          85,
+          226
+        ],
+        "List_terminals_hash": {
+          "list": [
+            85,
+            226
+          ],
+          "encode_list": 136
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_657214.1",
+            "terrminal_hash": 85
+          },
+          {
+            "newick": "6lcl|XP_652365.1",
+            "terrminal_hash": 226
+          }
+        ]
+      },
+      "tree_ORTHOMCL371_Inner2": {
+        "Terminals": [
+          33,
+          104
+        ],
+        "List_terminals_hash": {
+          "list": [
+            33,
+            104
+          ],
+          "encode_list": 63
+        },
+        "data_terminals": [
+          {
+            "newick": "1lcl|AAA29508.1",
+            "terrminal_hash": 33
+          },
+          {
+            "newick": "2lcl|AAA29509.1",
+            "terrminal_hash": 104
+          }
+        ]
+      },
+      "tree_ORTHOMCL371_Inner5": {
+        "Terminals": [
+          99,
+          165
+        ],
+        "List_terminals_hash": {
+          "list": [
+            99,
+            165
+          ],
+          "encode_list": 85
+        },
+        "data_terminals": [
+          {
+            "newick": "8lcl|XP_808089.1",
+            "terrminal_hash": 99
+          },
+          {
+            "newick": "3lcl|CAA36316.1",
+            "terrminal_hash": 165
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tree_ORTHOMCL256": {
+      "tree_ORTHOMCL256_Inner8": {
+        "Terminals": [
+          43,
+          73,
+          186,
+          3,
+          218,
+          59,
+          131,
+          21,
+          181,
+          108
+        ],
+        "List_terminals_hash": {
+          "list": [
+            43,
+            73,
+            186,
+            3,
+            218,
+            59,
+            131,
+            21,
+            181,
+            108
+          ],
+          "encode_list": 32
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_808221.1",
+            "terrminal_hash": 43
+          },
+          {
+            "newick": "10lcl|XP_822287.1",
+            "terrminal_hash": 73
+          },
+          {
+            "newick": "2lcl|CAD51724.1",
+            "terrminal_hash": 186
+          },
+          {
+            "newick": "6lcl|XP_657219.1",
+            "terrminal_hash": 3
+          },
+          {
+            "newick": "5lcl|XP_656669.1",
+            "terrminal_hash": 218
+          },
+          {
+            "newick": "4lcl|XP_655599.1",
+            "terrminal_hash": 59
+          },
+          {
+            "newick": "1lcl|AAZ14428.1",
+            "terrminal_hash": 131
+          },
+          {
+            "newick": "3lcl|XP_001683137.1",
+            "terrminal_hash": 21
+          },
+          {
+            "newick": "8lcl|XP_817439.1",
+            "terrminal_hash": 181
+          },
+          {
+            "newick": "9lcl|XP_817889.1",
+            "terrminal_hash": 108
+          }
+        ]
+      },
+      "tree_ORTHOMCL256_Inner7": {
+        "Terminals": [
+          43,
+          73,
+          186,
+          3,
+          218,
+          59,
+          131,
+          21
+        ],
+        "List_terminals_hash": {
+          "list": [
+            43,
+            73,
+            186,
+            3,
+            218,
+            59,
+            131,
+            21
+          ],
+          "encode_list": 45
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_808221.1",
+            "terrminal_hash": 43
+          },
+          {
+            "newick": "10lcl|XP_822287.1",
+            "terrminal_hash": 73
+          },
+          {
+            "newick": "2lcl|CAD51724.1",
+            "terrminal_hash": 186
+          },
+          {
+            "newick": "6lcl|XP_657219.1",
+            "terrminal_hash": 3
+          },
+          {
+            "newick": "5lcl|XP_656669.1",
+            "terrminal_hash": 218
+          },
+          {
+            "newick": "4lcl|XP_655599.1",
+            "terrminal_hash": 59
+          },
+          {
+            "newick": "1lcl|AAZ14428.1",
+            "terrminal_hash": 131
+          },
+          {
+            "newick": "3lcl|XP_001683137.1",
+            "terrminal_hash": 21
+          }
+        ]
+      },
+      "tree_ORTHOMCL256_Inner6": {
+        "Terminals": [
+          73,
+          186,
+          3,
+          218,
+          59,
+          131,
+          21
+        ],
+        "List_terminals_hash": {
+          "list": [
+            73,
+            186,
+            3,
+            218,
+            59,
+            131,
+            21
+          ],
+          "encode_list": 72
+        },
+        "data_terminals": [
+          {
+            "newick": "10lcl|XP_822287.1",
+            "terrminal_hash": 73
+          },
+          {
+            "newick": "2lcl|CAD51724.1",
+            "terrminal_hash": 186
+          },
+          {
+            "newick": "6lcl|XP_657219.1",
+            "terrminal_hash": 3
+          },
+          {
+            "newick": "5lcl|XP_656669.1",
+            "terrminal_hash": 218
+          },
+          {
+            "newick": "4lcl|XP_655599.1",
+            "terrminal_hash": 59
+          },
+          {
+            "newick": "1lcl|AAZ14428.1",
+            "terrminal_hash": 131
+          },
+          {
+            "newick": "3lcl|XP_001683137.1",
+            "terrminal_hash": 21
+          }
+        ]
+      },
+      "tree_ORTHOMCL256_Inner5": {
+        "Terminals": [
+          186,
+          3,
+          218,
+          59,
+          131,
+          21
+        ],
+        "List_terminals_hash": {
+          "list": [
+            186,
+            3,
+            218,
+            59,
+            131,
+            21
+          ],
+          "encode_list": 17
+        },
+        "data_terminals": [
+          {
+            "newick": "2lcl|CAD51724.1",
+            "terrminal_hash": 186
+          },
+          {
+            "newick": "6lcl|XP_657219.1",
+            "terrminal_hash": 3
+          },
+          {
+            "newick": "5lcl|XP_656669.1",
+            "terrminal_hash": 218
+          },
+          {
+            "newick": "4lcl|XP_655599.1",
+            "terrminal_hash": 59
+          },
+          {
+            "newick": "1lcl|AAZ14428.1",
+            "terrminal_hash": 131
+          },
+          {
+            "newick": "3lcl|XP_001683137.1",
+            "terrminal_hash": 21
+          }
+        ]
+      },
+      "tree_ORTHOMCL256_Inner3": {
+        "Terminals": [
+          186,
+          3,
+          218,
+          59
+        ],
+        "List_terminals_hash": {
+          "list": [
+            186,
+            3,
+            218,
+            59
+          ],
+          "encode_list": 14
+        },
+        "data_terminals": [
+          {
+            "newick": "2lcl|CAD51724.1",
+            "terrminal_hash": 186
+          },
+          {
+            "newick": "6lcl|XP_657219.1",
+            "terrminal_hash": 3
+          },
+          {
+            "newick": "5lcl|XP_656669.1",
+            "terrminal_hash": 218
+          },
+          {
+            "newick": "4lcl|XP_655599.1",
+            "terrminal_hash": 59
+          }
+        ]
+      },
+      "tree_ORTHOMCL256_Inner2": {
+        "Terminals": [
+          3,
+          218,
+          59
+        ],
+        "List_terminals_hash": {
+          "list": [
+            3,
+            218,
+            59
+          ],
+          "encode_list": 137
+        },
+        "data_terminals": [
+          {
+            "newick": "6lcl|XP_657219.1",
+            "terrminal_hash": 3
+          },
+          {
+            "newick": "5lcl|XP_656669.1",
+            "terrminal_hash": 218
+          },
+          {
+            "newick": "4lcl|XP_655599.1",
+            "terrminal_hash": 59
+          }
+        ]
+      },
+      "tree_ORTHOMCL256_Inner1": {
+        "Terminals": [
+          218,
+          59
+        ],
+        "List_terminals_hash": {
+          "list": [
+            218,
+            59
+          ],
+          "encode_list": 41
+        },
+        "data_terminals": [
+          {
+            "newick": "5lcl|XP_656669.1",
+            "terrminal_hash": 218
+          },
+          {
+            "newick": "4lcl|XP_655599.1",
+            "terrminal_hash": 59
+          }
+        ]
+      },
+      "tree_ORTHOMCL256_Inner4": {
+        "Terminals": [
+          131,
+          21
+        ],
+        "List_terminals_hash": {
+          "list": [
+            131,
+            21
+          ],
+          "encode_list": 196
+        },
+        "data_terminals": [
+          {
+            "newick": "1lcl|AAZ14428.1",
+            "terrminal_hash": 131
+          },
+          {
+            "newick": "3lcl|XP_001683137.1",
+            "terrminal_hash": 21
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tree_ORTHOMCL320": {
+      "tree_ORTHOMCL320_Inner7": {
+        "Terminals": [
+          3,
+          181,
+          8,
+          58,
+          165,
+          79,
+          21,
+          254,
+          212
+        ],
+        "List_terminals_hash": {
+          "list": [
+            3,
+            181,
+            8,
+            58,
+            165,
+            79,
+            21,
+            254,
+            212
+          ],
+          "encode_list": 42
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_804874.1",
+            "terrminal_hash": 3
+          },
+          {
+            "newick": "8lcl|XP_811928.1",
+            "terrminal_hash": 181
+          },
+          {
+            "newick": "3lcl|XP_001685356.1",
+            "terrminal_hash": 8
+          },
+          {
+            "newick": "2lcl|XP_001683522.1",
+            "terrminal_hash": 58
+          },
+          {
+            "newick": "1lcl|XP_001350227.1",
+            "terrminal_hash": 165
+          },
+          {
+            "newick": "6lcl|XP_652544.1",
+            "terrminal_hash": 79
+          },
+          {
+            "newick": "5lcl|XP_652305.1",
+            "terrminal_hash": 21
+          },
+          {
+            "newick": "4lcl|XP_652070.1",
+            "terrminal_hash": 254
+          },
+          {
+            "newick": "9lcl|XP_827937.1",
+            "terrminal_hash": 212
+          }
+        ]
+      },
+      "tree_ORTHOMCL320_Inner6": {
+        "Terminals": [
+          3,
+          181
+        ],
+        "List_terminals_hash": {
+          "list": [
+            3,
+            181
+          ],
+          "encode_list": 36
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_804874.1",
+            "terrminal_hash": 3
+          },
+          {
+            "newick": "8lcl|XP_811928.1",
+            "terrminal_hash": 181
+          }
+        ]
+      },
+      "tree_ORTHOMCL320_Inner4": {
+        "Terminals": [
+          8,
+          58
+        ],
+        "List_terminals_hash": {
+          "list": [
+            8,
+            58
+          ],
+          "encode_list": 71
+        },
+        "data_terminals": [
+          {
+            "newick": "3lcl|XP_001685356.1",
+            "terrminal_hash": 8
+          },
+          {
+            "newick": "2lcl|XP_001683522.1",
+            "terrminal_hash": 58
+          }
+        ]
+      },
+      "tree_ORTHOMCL320_Inner5": {
+        "Terminals": [
+          165,
+          79,
+          21,
+          254,
+          212
+        ],
+        "List_terminals_hash": {
+          "list": [
+            165,
+            79,
+            21,
+            254,
+            212
+          ],
+          "encode_list": 110
+        },
+        "data_terminals": [
+          {
+            "newick": "1lcl|XP_001350227.1",
+            "terrminal_hash": 165
+          },
+          {
+            "newick": "6lcl|XP_652544.1",
+            "terrminal_hash": 79
+          },
+          {
+            "newick": "5lcl|XP_652305.1",
+            "terrminal_hash": 21
+          },
+          {
+            "newick": "4lcl|XP_652070.1",
+            "terrminal_hash": 254
+          },
+          {
+            "newick": "9lcl|XP_827937.1",
+            "terrminal_hash": 212
+          }
+        ]
+      },
+      "tree_ORTHOMCL320_Inner3": {
+        "Terminals": [
+          165,
+          79,
+          21,
+          254
+        ],
+        "List_terminals_hash": {
+          "list": [
+            165,
+            79,
+            21,
+            254
+          ],
+          "encode_list": 46
+        },
+        "data_terminals": [
+          {
+            "newick": "1lcl|XP_001350227.1",
+            "terrminal_hash": 165
+          },
+          {
+            "newick": "6lcl|XP_652544.1",
+            "terrminal_hash": 79
+          },
+          {
+            "newick": "5lcl|XP_652305.1",
+            "terrminal_hash": 21
+          },
+          {
+            "newick": "4lcl|XP_652070.1",
+            "terrminal_hash": 254
+          }
+        ]
+      },
+      "tree_ORTHOMCL320_Inner2": {
+        "Terminals": [
+          79,
+          21,
+          254
+        ],
+        "List_terminals_hash": {
+          "list": [
+            79,
+            21,
+            254
+          ],
+          "encode_list": 178
+        },
+        "data_terminals": [
+          {
+            "newick": "6lcl|XP_652544.1",
+            "terrminal_hash": 79
+          },
+          {
+            "newick": "5lcl|XP_652305.1",
+            "terrminal_hash": 21
+          },
+          {
+            "newick": "4lcl|XP_652070.1",
+            "terrminal_hash": 254
+          }
+        ]
+      },
+      "tree_ORTHOMCL320_Inner1": {
+        "Terminals": [
+          21,
+          254
+        ],
+        "List_terminals_hash": {
+          "list": [
+            21,
+            254
+          ],
+          "encode_list": 190
+        },
+        "data_terminals": [
+          {
+            "newick": "5lcl|XP_652305.1",
+            "terrminal_hash": 21
+          },
+          {
+            "newick": "4lcl|XP_652070.1",
+            "terrminal_hash": 254
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tree_ORTHOMCL337": {
+      "tree_ORTHOMCL337_Inner7": {
+        "Terminals": [
+          123,
+          117,
+          44,
+          175,
+          103,
+          16,
+          162,
+          10,
+          171
+        ],
+        "List_terminals_hash": {
+          "list": [
+            123,
+            117,
+            44,
+            175,
+            103,
+            16,
+            162,
+            10,
+            171
+          ],
+          "encode_list": 123
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_653142.1",
+            "terrminal_hash": 123
+          },
+          {
+            "newick": "2lcl|AAX79562.1",
+            "terrminal_hash": 117
+          },
+          {
+            "newick": "9lcl|XP_817430.1",
+            "terrminal_hash": 44
+          },
+          {
+            "newick": "8lcl|XP_814268.1",
+            "terrminal_hash": 175
+          },
+          {
+            "newick": "1lcl|AAN08877.1",
+            "terrminal_hash": 103
+          },
+          {
+            "newick": "6lcl|XP_001681074.1",
+            "terrminal_hash": 16
+          },
+          {
+            "newick": "5lcl|XP_001350045.1",
+            "terrminal_hash": 162
+          },
+          {
+            "newick": "4lcl|ABB91447.1",
+            "terrminal_hash": 10
+          },
+          {
+            "newick": "3lcl|ABB91446.1",
+            "terrminal_hash": 171
+          }
+        ]
+      },
+      "tree_ORTHOMCL337_Inner5": {
+        "Terminals": [
+          123,
+          117,
+          44,
+          175,
+          103,
+          16
+        ],
+        "List_terminals_hash": {
+          "list": [
+            123,
+            117,
+            44,
+            175,
+            103,
+            16
+          ],
+          "encode_list": 157
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_653142.1",
+            "terrminal_hash": 123
+          },
+          {
+            "newick": "2lcl|AAX79562.1",
+            "terrminal_hash": 117
+          },
+          {
+            "newick": "9lcl|XP_817430.1",
+            "terrminal_hash": 44
+          },
+          {
+            "newick": "8lcl|XP_814268.1",
+            "terrminal_hash": 175
+          },
+          {
+            "newick": "1lcl|AAN08877.1",
+            "terrminal_hash": 103
+          },
+          {
+            "newick": "6lcl|XP_001681074.1",
+            "terrminal_hash": 16
+          }
+        ]
+      },
+      "tree_ORTHOMCL337_Inner4": {
+        "Terminals": [
+          117,
+          44,
+          175,
+          103,
+          16
+        ],
+        "List_terminals_hash": {
+          "list": [
+            117,
+            44,
+            175,
+            103,
+            16
+          ],
+          "encode_list": 81
+        },
+        "data_terminals": [
+          {
+            "newick": "2lcl|AAX79562.1",
+            "terrminal_hash": 117
+          },
+          {
+            "newick": "9lcl|XP_817430.1",
+            "terrminal_hash": 44
+          },
+          {
+            "newick": "8lcl|XP_814268.1",
+            "terrminal_hash": 175
+          },
+          {
+            "newick": "1lcl|AAN08877.1",
+            "terrminal_hash": 103
+          },
+          {
+            "newick": "6lcl|XP_001681074.1",
+            "terrminal_hash": 16
+          }
+        ]
+      },
+      "tree_ORTHOMCL337_Inner3": {
+        "Terminals": [
+          117,
+          44,
+          175
+        ],
+        "List_terminals_hash": {
+          "list": [
+            117,
+            44,
+            175
+          ],
+          "encode_list": 40
+        },
+        "data_terminals": [
+          {
+            "newick": "2lcl|AAX79562.1",
+            "terrminal_hash": 117
+          },
+          {
+            "newick": "9lcl|XP_817430.1",
+            "terrminal_hash": 44
+          },
+          {
+            "newick": "8lcl|XP_814268.1",
+            "terrminal_hash": 175
+          }
+        ]
+      },
+      "tree_ORTHOMCL337_Inner1": {
+        "Terminals": [
+          44,
+          175
+        ],
+        "List_terminals_hash": {
+          "list": [
+            44,
+            175
+          ],
+          "encode_list": 29
+        },
+        "data_terminals": [
+          {
+            "newick": "9lcl|XP_817430.1",
+            "terrminal_hash": 44
+          },
+          {
+            "newick": "8lcl|XP_814268.1",
+            "terrminal_hash": 175
+          }
+        ]
+      },
+      "tree_ORTHOMCL337_Inner2": {
+        "Terminals": [
+          103,
+          16
+        ],
+        "List_terminals_hash": {
+          "list": [
+            103,
+            16
+          ],
+          "encode_list": 135
+        },
+        "data_terminals": [
+          {
+            "newick": "1lcl|AAN08877.1",
+            "terrminal_hash": 103
+          },
+          {
+            "newick": "6lcl|XP_001681074.1",
+            "terrminal_hash": 16
+          }
+        ]
+      },
+      "tree_ORTHOMCL337_Inner6": {
+        "Terminals": [
+          162,
+          10
+        ],
+        "List_terminals_hash": {
+          "list": [
+            162,
+            10
+          ],
+          "encode_list": 241
+        },
+        "data_terminals": [
+          {
+            "newick": "5lcl|XP_001350045.1",
+            "terrminal_hash": 162
+          },
+          {
+            "newick": "4lcl|ABB91447.1",
+            "terrminal_hash": 10
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tree_ORTHOMCL358": {
+      "tree_ORTHOMCL358_Inner7": {
+        "Terminals": [
+          65,
+          6,
+          97,
+          29,
+          253,
+          142,
+          52,
+          64,
+          66
+        ],
+        "List_terminals_hash": {
+          "list": [
+            65,
+            6,
+            97,
+            29,
+            253,
+            142,
+            52,
+            64,
+            66
+          ],
+          "encode_list": 240
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_655103.2",
+            "terrminal_hash": 65
+          },
+          {
+            "newick": "6lcl|XP_655064.2",
+            "terrminal_hash": 6
+          },
+          {
+            "newick": "5lcl|CAA63555.1",
+            "terrminal_hash": 97
+          },
+          {
+            "newick": "1lcl|AAC47440.1",
+            "terrminal_hash": 29
+          },
+          {
+            "newick": "2lcl|AAN36041.1",
+            "terrminal_hash": 253
+          },
+          {
+            "newick": "4lcl|AAZ10035.1",
+            "terrminal_hash": 142
+          },
+          {
+            "newick": "9lcl|XP_814463.1",
+            "terrminal_hash": 52
+          },
+          {
+            "newick": "8lcl|XP_804960.1",
+            "terrminal_hash": 64
+          },
+          {
+            "newick": "3lcl|AAX79175.1",
+            "terrminal_hash": 66
+          }
+        ]
+      },
+      "tree_ORTHOMCL358_Inner5": {
+        "Terminals": [
+          65,
+          6,
+          97,
+          29,
+          253
+        ],
+        "List_terminals_hash": {
+          "list": [
+            65,
+            6,
+            97,
+            29,
+            253
+          ],
+          "encode_list": 82
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_655103.2",
+            "terrminal_hash": 65
+          },
+          {
+            "newick": "6lcl|XP_655064.2",
+            "terrminal_hash": 6
+          },
+          {
+            "newick": "5lcl|CAA63555.1",
+            "terrminal_hash": 97
+          },
+          {
+            "newick": "1lcl|AAC47440.1",
+            "terrminal_hash": 29
+          },
+          {
+            "newick": "2lcl|AAN36041.1",
+            "terrminal_hash": 253
+          }
+        ]
+      },
+      "tree_ORTHOMCL358_Inner1": {
+        "Terminals": [
+          65,
+          6
+        ],
+        "List_terminals_hash": {
+          "list": [
+            65,
+            6
+          ],
+          "encode_list": 16
+        },
+        "data_terminals": [
+          {
+            "newick": "7lcl|XP_655103.2",
+            "terrminal_hash": 65
+          },
+          {
+            "newick": "6lcl|XP_655064.2",
+            "terrminal_hash": 6
+          }
+        ]
+      },
+      "tree_ORTHOMCL358_Inner4": {
+        "Terminals": [
+          97,
+          29,
+          253
+        ],
+        "List_terminals_hash": {
+          "list": [
+            97,
+            29,
+            253
+          ],
+          "encode_list": 13
+        },
+        "data_terminals": [
+          {
+            "newick": "5lcl|CAA63555.1",
+            "terrminal_hash": 97
+          },
+          {
+            "newick": "1lcl|AAC47440.1",
+            "terrminal_hash": 29
+          },
+          {
+            "newick": "2lcl|AAN36041.1",
+            "terrminal_hash": 253
+          }
+        ]
+      },
+      "tree_ORTHOMCL358_Inner3": {
+        "Terminals": [
+          97,
+          29
+        ],
+        "List_terminals_hash": {
+          "list": [
+            97,
+            29
+          ],
+          "encode_list": 245
+        },
+        "data_terminals": [
+          {
+            "newick": "5lcl|CAA63555.1",
+            "terrminal_hash": 97
+          },
+          {
+            "newick": "1lcl|AAC47440.1",
+            "terrminal_hash": 29
+          }
+        ]
+      },
+      "tree_ORTHOMCL358_Inner6": {
+        "Terminals": [
+          142,
+          52,
+          64
+        ],
+        "List_terminals_hash": {
+          "list": [
+            142,
+            52,
+            64
+          ],
+          "encode_list": 218
+        },
+        "data_terminals": [
+          {
+            "newick": "4lcl|AAZ10035.1",
+            "terrminal_hash": 142
+          },
+          {
+            "newick": "9lcl|XP_814463.1",
+            "terrminal_hash": 52
+          },
+          {
+            "newick": "8lcl|XP_804960.1",
+            "terrminal_hash": 64
+          }
+        ]
+      },
+      "tree_ORTHOMCL358_Inner2": {
+        "Terminals": [
+          52,
+          64
+        ],
+        "List_terminals_hash": {
+          "list": [
+            52,
+            64
+          ],
+          "encode_list": 169
+        },
+        "data_terminals": [
+          {
+            "newick": "9lcl|XP_814463.1",
+            "terrminal_hash": 52
+          },
+          {
+            "newick": "8lcl|XP_804960.1",
+            "terrminal_hash": 64
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tree_ORTHOMCL364": {
+      "tree_ORTHOMCL364_Inner7": {
+        "Terminals": [
+          181,
+          164,
+          17,
+          176,
+          120,
+          122,
+          33,
+          27,
+          42
+        ],
+        "List_terminals_hash": {
+          "list": [
+            181,
+            164,
+            17,
+            176,
+            120,
+            122,
+            33,
+            27,
+            42
+          ],
+          "encode_list": 162
+        },
+        "data_terminals": [
+          {
+            "newick": "4lcl|AAZ09536.1",
+            "terrminal_hash": 181
+          },
+          {
+            "newick": "1lcl|AAA73081.1",
+            "terrminal_hash": 164
+          },
+          {
+            "newick": "9lcl|XP_818131.1",
+            "terrminal_hash": 17
+          },
+          {
+            "newick": "8lcl|XP_810170.1",
+            "terrminal_hash": 176
+          },
+          {
+            "newick": "6lcl|XP_653586.1",
+            "terrminal_hash": 120
+          },
+          {
+            "newick": "7lcl|XP_657292.1",
+            "terrminal_hash": 122
+          },
+          {
+            "newick": "3lcl|AAF15357.1",
+            "terrminal_hash": 33
+          },
+          {
+            "newick": "2lcl|AAC41606.1",
+            "terrminal_hash": 27
+          },
+          {
+            "newick": "5lcl|XP_001349346.1",
+            "terrminal_hash": 42
+          }
+        ]
+      },
+      "tree_ORTHOMCL364_Inner6": {
+        "Terminals": [
+          181,
+          164,
+          17,
+          176,
+          120,
+          122
+        ],
+        "List_terminals_hash": {
+          "list": [
+            181,
+            164,
+            17,
+            176,
+            120,
+            122
+          ],
+          "encode_list": 48
+        },
+        "data_terminals": [
+          {
+            "newick": "4lcl|AAZ09536.1",
+            "terrminal_hash": 181
+          },
+          {
+            "newick": "1lcl|AAA73081.1",
+            "terrminal_hash": 164
+          },
+          {
+            "newick": "9lcl|XP_818131.1",
+            "terrminal_hash": 17
+          },
+          {
+            "newick": "8lcl|XP_810170.1",
+            "terrminal_hash": 176
+          },
+          {
+            "newick": "6lcl|XP_653586.1",
+            "terrminal_hash": 120
+          },
+          {
+            "newick": "7lcl|XP_657292.1",
+            "terrminal_hash": 122
+          }
+        ]
+      },
+      "tree_ORTHOMCL364_Inner3": {
+        "Terminals": [
+          181,
+          164,
+          17,
+          176
+        ],
+        "List_terminals_hash": {
+          "list": [
+            181,
+            164,
+            17,
+            176
+          ],
+          "encode_list": 36
+        },
+        "data_terminals": [
+          {
+            "newick": "4lcl|AAZ09536.1",
+            "terrminal_hash": 181
+          },
+          {
+            "newick": "1lcl|AAA73081.1",
+            "terrminal_hash": 164
+          },
+          {
+            "newick": "9lcl|XP_818131.1",
+            "terrminal_hash": 17
+          },
+          {
+            "newick": "8lcl|XP_810170.1",
+            "terrminal_hash": 176
+          }
+        ]
+      },
+      "tree_ORTHOMCL364_Inner2": {
+        "Terminals": [
+          164,
+          17,
+          176
+        ],
+        "List_terminals_hash": {
+          "list": [
+            164,
+            17,
+            176
+          ],
+          "encode_list": 215
+        },
+        "data_terminals": [
+          {
+            "newick": "1lcl|AAA73081.1",
+            "terrminal_hash": 164
+          },
+          {
+            "newick": "9lcl|XP_818131.1",
+            "terrminal_hash": 17
+          },
+          {
+            "newick": "8lcl|XP_810170.1",
+            "terrminal_hash": 176
+          }
+        ]
+      },
+      "tree_ORTHOMCL364_Inner1": {
+        "Terminals": [
+          17,
+          176
+        ],
+        "List_terminals_hash": {
+          "list": [
+            17,
+            176
+          ],
+          "encode_list": 66
+        },
+        "data_terminals": [
+          {
+            "newick": "9lcl|XP_818131.1",
+            "terrminal_hash": 17
+          },
+          {
+            "newick": "8lcl|XP_810170.1",
+            "terrminal_hash": 176
+          }
+        ]
+      },
+      "tree_ORTHOMCL364_Inner4": {
+        "Terminals": [
+          120,
+          122
+        ],
+        "List_terminals_hash": {
+          "list": [
+            120,
+            122
+          ],
+          "encode_list": 250
+        },
+        "data_terminals": [
+          {
+            "newick": "6lcl|XP_653586.1",
+            "terrminal_hash": 120
+          },
+          {
+            "newick": "7lcl|XP_657292.1",
+            "terrminal_hash": 122
+          }
+        ]
+      },
+      "tree_ORTHOMCL364_Inner5": {
+        "Terminals": [
+          33,
+          27
+        ],
+        "List_terminals_hash": {
+          "list": [
+            33,
+            27
+          ],
+          "encode_list": 209
+        },
+        "data_terminals": [
+          {
+            "newick": "3lcl|AAF15357.1",
+            "terrminal_hash": 33
+          },
+          {
+            "newick": "2lcl|AAC41606.1",
+            "terrminal_hash": 27
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tree_ORTHOMCL1": {
+      "tree_ORTHOMCL1_Inner3": {
+        "Terminals": [
+          59,
+          35,
+          191,
+          47,
+          63
+        ],
+        "List_terminals_hash": {
+          "list": [
+            59,
+            35,
+            191,
+            47,
+            63
+          ],
+          "encode_list": 7
+        },
+        "data_terminals": [
+          {
+            "newick": "1lcl|AAG00459.1",
+            "terrminal_hash": 59
+          },
+          {
+            "newick": "5lcl|XP_813700.1",
+            "terrminal_hash": 35
+          },
+          {
+            "newick": "3lcl|AAZ14670.1",
+            "terrminal_hash": 191
+          },
+          {
+            "newick": "4lcl|XP_653680.1",
+            "terrminal_hash": 47
+          },
+          {
+            "newick": "2lcl|AAN35864.1",
+            "terrminal_hash": 63
+          }
+        ]
+      },
+      "tree_ORTHOMCL1_Inner2": {
+        "Terminals": [
+          59,
+          35
+        ],
+        "List_terminals_hash": {
+          "list": [
+            59,
+            35
+          ],
+          "encode_list": 79
+        },
+        "data_terminals": [
+          {
+            "newick": "1lcl|AAG00459.1",
+            "terrminal_hash": 59
+          },
+          {
+            "newick": "5lcl|XP_813700.1",
+            "terrminal_hash": 35
+          }
+        ]
+      },
+      "tree_ORTHOMCL1_Inner1": {
+        "Terminals": [
+          47,
+          63
+        ],
+        "List_terminals_hash": {
+          "list": [
+            47,
+            63
+          ],
+          "encode_list": 94
+        },
+        "data_terminals": [
+          {
+            "newick": "4lcl|XP_653680.1",
+            "terrminal_hash": 47
+          },
+          {
+            "newick": "2lcl|AAN35864.1",
+            "terrminal_hash": 63
           }
         ]
       }

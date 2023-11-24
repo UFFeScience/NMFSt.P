@@ -1,6 +1,264 @@
 ====================================================================================================
 
 TREE: HASH VALUE
+tree_ORTHOMCL256_2: 17
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner8
+
+   _ 7lcl|XP_808221.1
+  |
+ ,|  ____ 10lcl|XP_822287.1
+ || |
+ || |                            ________________________ 2lcl|CAD51724.1
+ ||_|  _________________________|
+ |  | |                         |                      , 6lcl|XP_657212.1
+ |  | |                         |______________________|
+ |  | |                                                |, 5lcl|XP_656669.1
+ |  |_|                                                ||
+_|    |                                                 | 4lcl|XP_655599.1
+ |    |
+ |    |  ___ 1lcl|AAZ14427.1
+ |    |_|
+ |      |_____ 3lcl|XP_001683137.1
+ |
+ | 8lcl|XP_817439.1
+ |
+ | 9lcl|XP_817889.1
+
+
+
+subtree clade: 7lcl|XP_808221.1: 43
+Decode: 7lcl|XP_808221.1
+subtree clade: 10lcl|XP_822287.1: 73
+Decode: 10lcl|XP_822287.1
+subtree clade: 2lcl|CAD51724.1: 186
+Decode: 2lcl|CAD51724.1
+subtree clade: 6lcl|XP_657212.1: 141
+Decode: 6lcl|XP_657212.1
+subtree clade: 5lcl|XP_656669.1: 218
+Decode: 5lcl|XP_656669.1
+subtree clade: 4lcl|XP_655599.1: 59
+Decode: 4lcl|XP_655599.1
+subtree clade: 1lcl|AAZ14427.1: 178
+Decode: 1lcl|AAZ14427.1
+subtree clade: 3lcl|XP_001683137.1: 21
+Decode: 3lcl|XP_001683137.1
+subtree clade: 8lcl|XP_817439.1: 181
+Decode: 8lcl|XP_817439.1
+subtree clade: 9lcl|XP_817889.1: 108
+Decode: 9lcl|XP_817889.1
+
+Terminais: [43, 73, 186, 141, 218, 59, 178, 21, 181, 108]:{'list': [43, 73, 186, 141, 218, 59, 178, 21, 181, 108], 'encode_list': 84}
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner7
+
+   _ 7lcl|XP_808221.1
+  |
+__|  ____ 10lcl|XP_822287.1
+  | |
+  | |                             _______________________ 2lcl|CAD51724.1
+  |_|  __________________________|
+    | |                          |                      , 6lcl|XP_657212.1
+    | |                          |______________________|
+    | |                                                 |, 5lcl|XP_656669.1
+    |_|                                                 ||
+      |                                                  | 4lcl|XP_655599.1
+      |
+      |  ___ 1lcl|AAZ14427.1
+      |_|
+        |_____ 3lcl|XP_001683137.1
+
+
+
+subtree clade: 7lcl|XP_808221.1: 43
+Decode: 7lcl|XP_808221.1
+subtree clade: 10lcl|XP_822287.1: 73
+Decode: 10lcl|XP_822287.1
+subtree clade: 2lcl|CAD51724.1: 186
+Decode: 2lcl|CAD51724.1
+subtree clade: 6lcl|XP_657212.1: 141
+Decode: 6lcl|XP_657212.1
+subtree clade: 5lcl|XP_656669.1: 218
+Decode: 5lcl|XP_656669.1
+subtree clade: 4lcl|XP_655599.1: 59
+Decode: 4lcl|XP_655599.1
+subtree clade: 1lcl|AAZ14427.1: 178
+Decode: 1lcl|AAZ14427.1
+subtree clade: 3lcl|XP_001683137.1: 21
+Decode: 3lcl|XP_001683137.1
+
+Terminais: [43, 73, 186, 141, 218, 59, 178, 21]:{'list': [43, 73, 186, 141, 218, 59, 178, 21], 'encode_list': 222}
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner6
+
+    ____ 10lcl|XP_822287.1
+   |
+   |                             _________________________ 2lcl|CAD51724.1
+___|  __________________________|
+   | |                          |                       , 6lcl|XP_657212.1
+   | |                          |_______________________|
+   | |                                                  |, 5lcl|XP_656669.1
+   |_|                                                  ||
+     |                                                   | 4lcl|XP_655599.1
+     |
+     |  ___ 1lcl|AAZ14427.1
+     |_|
+       |_____ 3lcl|XP_001683137.1
+
+
+
+subtree clade: 10lcl|XP_822287.1: 73
+Decode: 10lcl|XP_822287.1
+subtree clade: 2lcl|CAD51724.1: 186
+Decode: 2lcl|CAD51724.1
+subtree clade: 6lcl|XP_657212.1: 141
+Decode: 6lcl|XP_657212.1
+subtree clade: 5lcl|XP_656669.1: 218
+Decode: 5lcl|XP_656669.1
+subtree clade: 4lcl|XP_655599.1: 59
+Decode: 4lcl|XP_655599.1
+subtree clade: 1lcl|AAZ14427.1: 178
+Decode: 1lcl|AAZ14427.1
+subtree clade: 3lcl|XP_001683137.1: 21
+Decode: 3lcl|XP_001683137.1
+
+Terminais: [73, 186, 141, 218, 59, 178, 21]:{'list': [73, 186, 141, 218, 59, 178, 21], 'encode_list': 28}
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner5
+
+                                __________________________ 2lcl|CAD51724.1
+    ___________________________|
+   |                           |                        , 6lcl|XP_657212.1
+   |                           |________________________|
+   |                                                    |, 5lcl|XP_656669.1
+___|                                                    ||
+   |                                                     | 4lcl|XP_655599.1
+   |
+   |  ___ 1lcl|AAZ14427.1
+   |_|
+     |_____ 3lcl|XP_001683137.1
+
+
+
+subtree clade: 2lcl|CAD51724.1: 186
+Decode: 2lcl|CAD51724.1
+subtree clade: 6lcl|XP_657212.1: 141
+Decode: 6lcl|XP_657212.1
+subtree clade: 5lcl|XP_656669.1: 218
+Decode: 5lcl|XP_656669.1
+subtree clade: 4lcl|XP_655599.1: 59
+Decode: 4lcl|XP_655599.1
+subtree clade: 1lcl|AAZ14427.1: 178
+Decode: 1lcl|AAZ14427.1
+subtree clade: 3lcl|XP_001683137.1: 21
+Decode: 3lcl|XP_001683137.1
+
+Terminais: [186, 141, 218, 59, 178, 21]:{'list': [186, 141, 218, 59, 178, 21], 'encode_list': 50}
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner3
+
+                                 _____________________________ 2lcl|CAD51724.1
+________________________________|
+                                |                           , 6lcl|XP_657212.1
+                                |___________________________|
+                                                            |, 5lcl|XP_656669.1
+                                                            ||
+                                                             | 4lcl|XP_655599.1
+
+
+
+subtree clade: 2lcl|CAD51724.1: 186
+Decode: 2lcl|CAD51724.1
+subtree clade: 6lcl|XP_657212.1: 141
+Decode: 6lcl|XP_657212.1
+subtree clade: 5lcl|XP_656669.1: 218
+Decode: 5lcl|XP_656669.1
+subtree clade: 4lcl|XP_655599.1: 59
+Decode: 4lcl|XP_655599.1
+
+Terminais: [186, 141, 218, 59]:{'list': [186, 141, 218, 59], 'encode_list': 16}
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner2
+
+                                                            _ 6lcl|XP_657212.1
+___________________________________________________________|
+                                                           | _ 5lcl|XP_656669.1
+                                                           ||
+                                                            | 4lcl|XP_655599.1
+
+
+
+subtree clade: 6lcl|XP_657212.1: 141
+Decode: 6lcl|XP_657212.1
+subtree clade: 5lcl|XP_656669.1: 218
+Decode: 5lcl|XP_656669.1
+subtree clade: 4lcl|XP_655599.1: 59
+Decode: 4lcl|XP_655599.1
+
+Terminais: [141, 218, 59]:{'list': [141, 218, 59], 'encode_list': 49}
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner1
+
+                                     __________________________ 5lcl|XP_656669.1
+____________________________________|
+                                    |____________________ 4lcl|XP_655599.1
+
+
+
+subtree clade: 5lcl|XP_656669.1: 218
+Decode: 5lcl|XP_656669.1
+subtree clade: 4lcl|XP_655599.1: 59
+Decode: 4lcl|XP_655599.1
+
+Terminais: [218, 59]:{'list': [218, 59], 'encode_list': 41}
+
+
+SUBTREE:
+tree_ORTHOMCL256_2_Inner4
+
+                  ________________________________ 1lcl|AAZ14427.1
+_________________|
+                 |__________________________________________ 3lcl|XP_001683137.1
+
+
+
+subtree clade: 1lcl|AAZ14427.1: 178
+Decode: 1lcl|AAZ14427.1
+subtree clade: 3lcl|XP_001683137.1: 21
+Decode: 3lcl|XP_001683137.1
+
+Terminais: [178, 21]:{'list': [178, 21], 'encode_list': 229}
+
+CLADES DA ARVORE tree_ORTHOMCL256_2:
+
+7lcl|XP_808221.1: 43
+10lcl|XP_822287.1: 73
+2lcl|CAD51724.1: 186
+6lcl|XP_657212.1: 141
+5lcl|XP_656669.1: 218
+4lcl|XP_655599.1: 59
+1lcl|AAZ14427.1: 178
+3lcl|XP_001683137.1: 21
+8lcl|XP_817439.1: 181
+9lcl|XP_817889.1: 108
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+TREE: HASH VALUE
 tree_ORTHOMCL371: 213
 
 
@@ -42,7 +300,7 @@ Decode: 3lcl|CAA36316.1
 subtree clade: 4lcl|CAA39861.1: 225
 Decode: 4lcl|CAA39861.1
 
-Terminais: [198, 85, 226, 33, 104, 99, 165, 225]:141
+Terminais: [198, 85, 226, 33, 104, 99, 165, 225]:{'list': [198, 85, 226, 33, 104, 99, 165, 225], 'encode_list': 141}
 
 
 SUBTREE:
@@ -71,7 +329,7 @@ Decode: 1lcl|AAA29508.1
 subtree clade: 2lcl|AAA29509.1: 104
 Decode: 2lcl|AAA29509.1
 
-Terminais: [198, 85, 226, 33, 104]:145
+Terminais: [198, 85, 226, 33, 104]:{'list': [198, 85, 226, 33, 104], 'encode_list': 145}
 
 
 SUBTREE:
@@ -96,7 +354,7 @@ Decode: 1lcl|AAA29508.1
 subtree clade: 2lcl|AAA29509.1: 104
 Decode: 2lcl|AAA29509.1
 
-Terminais: [85, 226, 33, 104]:56
+Terminais: [85, 226, 33, 104]:{'list': [85, 226, 33, 104], 'encode_list': 56}
 
 
 SUBTREE:
@@ -113,7 +371,7 @@ Decode: 7lcl|XP_657214.1
 subtree clade: 6lcl|XP_652365.1: 226
 Decode: 6lcl|XP_652365.1
 
-Terminais: [85, 226]:136
+Terminais: [85, 226]:{'list': [85, 226], 'encode_list': 136}
 
 
 SUBTREE:
@@ -130,7 +388,7 @@ Decode: 1lcl|AAA29508.1
 subtree clade: 2lcl|AAA29509.1: 104
 Decode: 2lcl|AAA29509.1
 
-Terminais: [33, 104]:63
+Terminais: [33, 104]:{'list': [33, 104], 'encode_list': 63}
 
 
 SUBTREE:
@@ -147,7 +405,7 @@ Decode: 8lcl|XP_808089.1
 subtree clade: 3lcl|CAA36316.1: 165
 Decode: 3lcl|CAA36316.1
 
-Terminais: [99, 165]:85
+Terminais: [99, 165]:{'list': [99, 165], 'encode_list': 85}
 
 CLADES DA ARVORE tree_ORTHOMCL371:
 
@@ -159,278 +417,6 @@ CLADES DA ARVORE tree_ORTHOMCL371:
 8lcl|XP_808089.1: 99
 3lcl|CAA36316.1: 165
 4lcl|CAA39861.1: 225
-----------------------------------------------------------------------------------------------------
-====================================================================================================
-
-TREE: HASH VALUE
-tree_ORTHOMCL337: 93
-
-
-SUBTREE:
-tree_ORTHOMCL337_Inner7
-
-                         ______________________ 7lcl|XP_653142.1
-                        |
-                        |            ___________________ 2lcl|AAX79562.1
-  ______________________| __________|
- |                      ||          |                   , 9lcl|XP_817430.1
- |                      ||          |___________________|
- |                      ||                              | 8lcl|XP_814268.1
- |                       |
- |                       |               _____ 1lcl|AAN08877.1
-_|                       |______________|
- |                                      |_____ 6lcl|XP_001681074.1
- |
- , 5lcl|XP_001350045.1
- |
- | 4lcl|ABB91447.1
- |
- | 3lcl|ABB91446.1
-
-
-
-subtree clade: 7lcl|XP_653142.1: 123
-Decode: 7lcl|XP_653142.1
-subtree clade: 2lcl|AAX79562.1: 117
-Decode: 2lcl|AAX79562.1
-subtree clade: 9lcl|XP_817430.1: 44
-Decode: 9lcl|XP_817430.1
-subtree clade: 8lcl|XP_814268.1: 175
-Decode: 8lcl|XP_814268.1
-subtree clade: 1lcl|AAN08877.1: 103
-Decode: 1lcl|AAN08877.1
-subtree clade: 6lcl|XP_001681074.1: 16
-Decode: 6lcl|XP_001681074.1
-subtree clade: 5lcl|XP_001350045.1: 162
-Decode: 5lcl|XP_001350045.1
-subtree clade: 4lcl|ABB91447.1: 10
-Decode: 4lcl|ABB91447.1
-subtree clade: 3lcl|ABB91446.1: 171
-Decode: 3lcl|ABB91446.1
-
-Terminais: [123, 117, 44, 175, 103, 16, 162, 10, 171]:123
-
-
-SUBTREE:
-tree_ORTHOMCL337_Inner5
-
-                         _______________________ 7lcl|XP_653142.1
-                        |
-                        |             ___________________ 2lcl|AAX79562.1
-________________________| ___________|
-                        ||           |                   , 9lcl|XP_817430.1
-                        ||           |___________________|
-                        ||                               | 8lcl|XP_814268.1
-                         |
-                         |                _____ 1lcl|AAN08877.1
-                         |_______________|
-                                         |_____ 6lcl|XP_001681074.1
-
-
-
-subtree clade: 7lcl|XP_653142.1: 123
-Decode: 7lcl|XP_653142.1
-subtree clade: 2lcl|AAX79562.1: 117
-Decode: 2lcl|AAX79562.1
-subtree clade: 9lcl|XP_817430.1: 44
-Decode: 9lcl|XP_817430.1
-subtree clade: 8lcl|XP_814268.1: 175
-Decode: 8lcl|XP_814268.1
-subtree clade: 1lcl|AAN08877.1: 103
-Decode: 1lcl|AAN08877.1
-subtree clade: 6lcl|XP_001681074.1: 16
-Decode: 6lcl|XP_001681074.1
-
-Terminais: [123, 117, 44, 175, 103, 16]:157
-
-
-SUBTREE:
-tree_ORTHOMCL337_Inner4
-
-                       __________________________________ 2lcl|AAX79562.1
-   ___________________|
-  |                   |                                  _ 9lcl|XP_817430.1
-  |                   |_________________________________|
-__|                                                     | 8lcl|XP_814268.1
-  |
-  |                           _________ 1lcl|AAN08877.1
-  |__________________________|
-                             |__________ 6lcl|XP_001681074.1
-
-
-
-subtree clade: 2lcl|AAX79562.1: 117
-Decode: 2lcl|AAX79562.1
-subtree clade: 9lcl|XP_817430.1: 44
-Decode: 9lcl|XP_817430.1
-subtree clade: 8lcl|XP_814268.1: 175
-Decode: 8lcl|XP_814268.1
-subtree clade: 1lcl|AAN08877.1: 103
-Decode: 1lcl|AAN08877.1
-subtree clade: 6lcl|XP_001681074.1: 16
-Decode: 6lcl|XP_001681074.1
-
-Terminais: [117, 44, 175, 103, 16]:81
-
-
-SUBTREE:
-tree_ORTHOMCL337_Inner3
-
-                       ______________________________________ 2lcl|AAX79562.1
-______________________|
-                      |                                      _ 9lcl|XP_817430.1
-                      |_____________________________________|
-                                                            | 8lcl|XP_814268.1
-
-
-
-subtree clade: 2lcl|AAX79562.1: 117
-Decode: 2lcl|AAX79562.1
-subtree clade: 9lcl|XP_817430.1: 44
-Decode: 9lcl|XP_817430.1
-subtree clade: 8lcl|XP_814268.1: 175
-Decode: 8lcl|XP_814268.1
-
-Terminais: [117, 44, 175]:40
-
-
-SUBTREE:
-tree_ORTHOMCL337_Inner1
-
-                                                             __ 9lcl|XP_817430.1
-____________________________________________________________|
-                                                            |_ 8lcl|XP_814268.1
-
-
-
-subtree clade: 9lcl|XP_817430.1: 44
-Decode: 9lcl|XP_817430.1
-subtree clade: 8lcl|XP_814268.1: 175
-Decode: 8lcl|XP_814268.1
-
-Terminais: [44, 175]:29
-
-
-SUBTREE:
-tree_ORTHOMCL337_Inner2
-
-                                           _______________ 1lcl|AAN08877.1
-__________________________________________|
-                                          |_________________ 6lcl|XP_001681074.1
-
-
-
-subtree clade: 1lcl|AAN08877.1: 103
-Decode: 1lcl|AAN08877.1
-subtree clade: 6lcl|XP_001681074.1: 16
-Decode: 6lcl|XP_001681074.1
-
-Terminais: [103, 16]:135
-
-
-SUBTREE:
-tree_ORTHOMCL337_Inner6
-
-         ______ 5lcl|XP_001350045.1
-________|
-        |___________________________________________________ 4lcl|ABB91447.1
-
-
-
-subtree clade: 5lcl|XP_001350045.1: 162
-Decode: 5lcl|XP_001350045.1
-subtree clade: 4lcl|ABB91447.1: 10
-Decode: 4lcl|ABB91447.1
-
-Terminais: [162, 10]:241
-
-CLADES DA ARVORE tree_ORTHOMCL337:
-
-7lcl|XP_653142.1: 123
-2lcl|AAX79562.1: 117
-9lcl|XP_817430.1: 44
-8lcl|XP_814268.1: 175
-1lcl|AAN08877.1: 103
-6lcl|XP_001681074.1: 16
-5lcl|XP_001350045.1: 162
-4lcl|ABB91447.1: 10
-3lcl|ABB91446.1: 171
-----------------------------------------------------------------------------------------------------
-====================================================================================================
-
-TREE: HASH VALUE
-tree_ORTHOMCL1: 30
-
-
-SUBTREE:
-tree_ORTHOMCL1_Inner3
-
-           ___ 1lcl|AAG00459.1
-  ________|
- |        |_____ 5lcl|XP_813700.1
- |
-_|______________ 3lcl|AAZ14670.1
- |
- |                         _______________________________ 4lcl|XP_653680.1
- |________________________|
-                          |__________________________________ 2lcl|AAN35864.1
-
-
-
-subtree clade: 1lcl|AAG00459.1: 59
-Decode: 1lcl|AAG00459.1
-subtree clade: 5lcl|XP_813700.1: 35
-Decode: 5lcl|XP_813700.1
-subtree clade: 3lcl|AAZ14670.1: 191
-Decode: 3lcl|AAZ14670.1
-subtree clade: 4lcl|XP_653680.1: 47
-Decode: 4lcl|XP_653680.1
-subtree clade: 2lcl|AAN35864.1: 63
-Decode: 2lcl|AAN35864.1
-
-Terminais: [59, 35, 191, 47, 63]:7
-
-
-SUBTREE:
-tree_ORTHOMCL1_Inner2
-
-                                        ______________ 1lcl|AAG00459.1
-_______________________________________|
-                                       |_______________________ 5lcl|XP_813700.1
-
-
-
-subtree clade: 1lcl|AAG00459.1: 59
-Decode: 1lcl|AAG00459.1
-subtree clade: 5lcl|XP_813700.1: 35
-Decode: 5lcl|XP_813700.1
-
-Terminais: [59, 35]:79
-
-
-SUBTREE:
-tree_ORTHOMCL1_Inner1
-
-                            ________________________________ 4lcl|XP_653680.1
-___________________________|
-                           |___________________________________ 2lcl|AAN35864.1
-
-
-
-subtree clade: 4lcl|XP_653680.1: 47
-Decode: 4lcl|XP_653680.1
-subtree clade: 2lcl|AAN35864.1: 63
-Decode: 2lcl|AAN35864.1
-
-Terminais: [47, 63]:94
-
-CLADES DA ARVORE tree_ORTHOMCL1:
-
-1lcl|AAG00459.1: 59
-5lcl|XP_813700.1: 35
-3lcl|AAZ14670.1: 191
-4lcl|XP_653680.1: 47
-2lcl|AAN35864.1: 63
 ----------------------------------------------------------------------------------------------------
 ====================================================================================================
 
@@ -484,7 +470,7 @@ Decode: 8lcl|XP_817439.1
 subtree clade: 9lcl|XP_817889.1: 108
 Decode: 9lcl|XP_817889.1
 
-Terminais: [43, 73, 186, 3, 218, 59, 131, 21, 181, 108]:32
+Terminais: [43, 73, 186, 3, 218, 59, 131, 21, 181, 108]:{'list': [43, 73, 186, 3, 218, 59, 131, 21, 181, 108], 'encode_list': 32}
 
 
 SUBTREE:
@@ -525,7 +511,7 @@ Decode: 1lcl|AAZ14428.1
 subtree clade: 3lcl|XP_001683137.1: 21
 Decode: 3lcl|XP_001683137.1
 
-Terminais: [43, 73, 186, 3, 218, 59, 131, 21]:45
+Terminais: [43, 73, 186, 3, 218, 59, 131, 21]:{'list': [43, 73, 186, 3, 218, 59, 131, 21], 'encode_list': 45}
 
 
 SUBTREE:
@@ -562,7 +548,7 @@ Decode: 1lcl|AAZ14428.1
 subtree clade: 3lcl|XP_001683137.1: 21
 Decode: 3lcl|XP_001683137.1
 
-Terminais: [73, 186, 3, 218, 59, 131, 21]:72
+Terminais: [73, 186, 3, 218, 59, 131, 21]:{'list': [73, 186, 3, 218, 59, 131, 21], 'encode_list': 72}
 
 
 SUBTREE:
@@ -595,7 +581,7 @@ Decode: 1lcl|AAZ14428.1
 subtree clade: 3lcl|XP_001683137.1: 21
 Decode: 3lcl|XP_001683137.1
 
-Terminais: [186, 3, 218, 59, 131, 21]:17
+Terminais: [186, 3, 218, 59, 131, 21]:{'list': [186, 3, 218, 59, 131, 21], 'encode_list': 17}
 
 
 SUBTREE:
@@ -620,7 +606,7 @@ Decode: 5lcl|XP_656669.1
 subtree clade: 4lcl|XP_655599.1: 59
 Decode: 4lcl|XP_655599.1
 
-Terminais: [186, 3, 218, 59]:14
+Terminais: [186, 3, 218, 59]:{'list': [186, 3, 218, 59], 'encode_list': 14}
 
 
 SUBTREE:
@@ -641,7 +627,7 @@ Decode: 5lcl|XP_656669.1
 subtree clade: 4lcl|XP_655599.1: 59
 Decode: 4lcl|XP_655599.1
 
-Terminais: [3, 218, 59]:137
+Terminais: [3, 218, 59]:{'list': [3, 218, 59], 'encode_list': 137}
 
 
 SUBTREE:
@@ -658,7 +644,7 @@ Decode: 5lcl|XP_656669.1
 subtree clade: 4lcl|XP_655599.1: 59
 Decode: 4lcl|XP_655599.1
 
-Terminais: [218, 59]:41
+Terminais: [218, 59]:{'list': [218, 59], 'encode_list': 41}
 
 
 SUBTREE:
@@ -675,7 +661,7 @@ Decode: 1lcl|AAZ14428.1
 subtree clade: 3lcl|XP_001683137.1: 21
 Decode: 3lcl|XP_001683137.1
 
-Terminais: [131, 21]:196
+Terminais: [131, 21]:{'list': [131, 21], 'encode_list': 196}
 
 CLADES DA ARVORE tree_ORTHOMCL256:
 
@@ -689,382 +675,6 @@ CLADES DA ARVORE tree_ORTHOMCL256:
 3lcl|XP_001683137.1: 21
 8lcl|XP_817439.1: 181
 9lcl|XP_817889.1: 108
-----------------------------------------------------------------------------------------------------
-====================================================================================================
-
-TREE: HASH VALUE
-tree_ORTHOMCL364: 144
-
-
-SUBTREE:
-tree_ORTHOMCL364_Inner7
-
-                                   _____________________ 4lcl|AAZ09536.1
-      ____________________________|
-     |                            |      ____________ 1lcl|AAA73081.1
-     |                            |_____|
-     |                                  |          , 9lcl|XP_818131.1
-  ___|                                  |__________|
- |   |                                             | 8lcl|XP_810170.1
- |   |
- |   |       , 6lcl|XP_653586.1
- |   |_______|
-_|           | 7lcl|XP_657292.1
- |
- |   , 3lcl|AAF15357.1
- |___|
- |   | 2lcl|AAC41606.1
- |
- |___ 5lcl|XP_001349346.1
-
-
-
-subtree clade: 4lcl|AAZ09536.1: 181
-Decode: 4lcl|AAZ09536.1
-subtree clade: 1lcl|AAA73081.1: 164
-Decode: 1lcl|AAA73081.1
-subtree clade: 9lcl|XP_818131.1: 17
-Decode: 9lcl|XP_818131.1
-subtree clade: 8lcl|XP_810170.1: 176
-Decode: 8lcl|XP_810170.1
-subtree clade: 6lcl|XP_653586.1: 120
-Decode: 6lcl|XP_653586.1
-subtree clade: 7lcl|XP_657292.1: 122
-Decode: 7lcl|XP_657292.1
-subtree clade: 3lcl|AAF15357.1: 33
-Decode: 3lcl|AAF15357.1
-subtree clade: 2lcl|AAC41606.1: 27
-Decode: 2lcl|AAC41606.1
-subtree clade: 5lcl|XP_001349346.1: 42
-Decode: 5lcl|XP_001349346.1
-
-Terminais: [181, 164, 17, 176, 120, 122, 33, 27, 42]:162
-
-
-SUBTREE:
-tree_ORTHOMCL364_Inner6
-
-                                     ________________________ 4lcl|AAZ09536.1
-      ______________________________|
-     |                              |       ____________ 1lcl|AAA73081.1
-     |                              |______|
-     |                                     |           , 9lcl|XP_818131.1
-_____|                                     |___________|
-     |                                                 | 8lcl|XP_810170.1
-     |
-     |        _ 6lcl|XP_653586.1
-     |_______|
-             |_ 7lcl|XP_657292.1
-
-
-
-subtree clade: 4lcl|AAZ09536.1: 181
-Decode: 4lcl|AAZ09536.1
-subtree clade: 1lcl|AAA73081.1: 164
-Decode: 1lcl|AAA73081.1
-subtree clade: 9lcl|XP_818131.1: 17
-Decode: 9lcl|XP_818131.1
-subtree clade: 8lcl|XP_810170.1: 176
-Decode: 8lcl|XP_810170.1
-subtree clade: 6lcl|XP_653586.1: 120
-Decode: 6lcl|XP_653586.1
-subtree clade: 7lcl|XP_657292.1: 122
-Decode: 7lcl|XP_657292.1
-
-Terminais: [181, 164, 17, 176, 120, 122]:48
-
-
-SUBTREE:
-tree_ORTHOMCL364_Inner3
-
-                                   __________________________ 4lcl|AAZ09536.1
-__________________________________|
-                                  |        ______________ 1lcl|AAA73081.1
-                                  |_______|
-                                          |            , 9lcl|XP_818131.1
-                                          |____________|
-                                                       | 8lcl|XP_810170.1
-
-
-
-subtree clade: 4lcl|AAZ09536.1: 181
-Decode: 4lcl|AAZ09536.1
-subtree clade: 1lcl|AAA73081.1: 164
-Decode: 1lcl|AAA73081.1
-subtree clade: 9lcl|XP_818131.1: 17
-Decode: 9lcl|XP_818131.1
-subtree clade: 8lcl|XP_810170.1: 176
-Decode: 8lcl|XP_810170.1
-
-Terminais: [181, 164, 17, 176]:36
-
-
-SUBTREE:
-tree_ORTHOMCL364_Inner2
-
-                      ________________________________________ 1lcl|AAA73081.1
-_____________________|
-                     |                                    , 9lcl|XP_818131.1
-                     |____________________________________|
-                                                          | 8lcl|XP_810170.1
-
-
-
-subtree clade: 1lcl|AAA73081.1: 164
-Decode: 1lcl|AAA73081.1
-subtree clade: 9lcl|XP_818131.1: 17
-Decode: 9lcl|XP_818131.1
-subtree clade: 8lcl|XP_810170.1: 176
-Decode: 8lcl|XP_810170.1
-
-Terminais: [164, 17, 176]:215
-
-
-SUBTREE:
-tree_ORTHOMCL364_Inner1
-
-                                                             __ 9lcl|XP_818131.1
-____________________________________________________________|
-                                                            |_ 8lcl|XP_810170.1
-
-
-
-subtree clade: 9lcl|XP_818131.1: 17
-Decode: 9lcl|XP_818131.1
-subtree clade: 8lcl|XP_810170.1: 176
-Decode: 8lcl|XP_810170.1
-
-Terminais: [17, 176]:66
-
-
-SUBTREE:
-tree_ORTHOMCL364_Inner4
-
-                                                    _______ 6lcl|XP_653586.1
-___________________________________________________|
-                                                   |___________ 7lcl|XP_657292.1
-
-
-
-subtree clade: 6lcl|XP_653586.1: 120
-Decode: 6lcl|XP_653586.1
-subtree clade: 7lcl|XP_657292.1: 122
-Decode: 7lcl|XP_657292.1
-
-Terminais: [120, 122]:250
-
-
-SUBTREE:
-tree_ORTHOMCL364_Inner5
-
-                                                               _ 3lcl|AAF15357.1
-______________________________________________________________|
-                                                              | 2lcl|AAC41606.1
-
-
-
-subtree clade: 3lcl|AAF15357.1: 33
-Decode: 3lcl|AAF15357.1
-subtree clade: 2lcl|AAC41606.1: 27
-Decode: 2lcl|AAC41606.1
-
-Terminais: [33, 27]:209
-
-CLADES DA ARVORE tree_ORTHOMCL364:
-
-4lcl|AAZ09536.1: 181
-1lcl|AAA73081.1: 164
-9lcl|XP_818131.1: 17
-8lcl|XP_810170.1: 176
-6lcl|XP_653586.1: 120
-7lcl|XP_657292.1: 122
-3lcl|AAF15357.1: 33
-2lcl|AAC41606.1: 27
-5lcl|XP_001349346.1: 42
-----------------------------------------------------------------------------------------------------
-====================================================================================================
-
-TREE: HASH VALUE
-tree_ORTHOMCL358: 176
-
-
-SUBTREE:
-tree_ORTHOMCL358_Inner7
-
-                                                        , 7lcl|XP_655103.2
-                    ____________________________________|
-                   |                                    | 6lcl|XP_655064.2
-  _________________|
- |                 |                       ___ 5lcl|CAA63555.1
- |                 |                    __|
- |                 |___________________|  |_________________ 1lcl|AAC47440.1
- |                                     |
- |                                     |___________ 2lcl|AAN36041.1
-_|
- | _______________________________________________ 4lcl|AAZ10035.1
- ||
- ||                  ____________________ 9lcl|XP_814463.1
- ||_________________|
- |                  |___________________________________ 8lcl|XP_804960.1
- |
- |_________________________ 3lcl|AAX79175.1
-
-
-
-subtree clade: 7lcl|XP_655103.2: 65
-Decode: 7lcl|XP_655103.2
-subtree clade: 6lcl|XP_655064.2: 6
-Decode: 6lcl|XP_655064.2
-subtree clade: 5lcl|CAA63555.1: 97
-Decode: 5lcl|CAA63555.1
-subtree clade: 1lcl|AAC47440.1: 29
-Decode: 1lcl|AAC47440.1
-subtree clade: 2lcl|AAN36041.1: 253
-Decode: 2lcl|AAN36041.1
-subtree clade: 4lcl|AAZ10035.1: 142
-Decode: 4lcl|AAZ10035.1
-subtree clade: 9lcl|XP_814463.1: 52
-Decode: 9lcl|XP_814463.1
-subtree clade: 8lcl|XP_804960.1: 64
-Decode: 8lcl|XP_804960.1
-subtree clade: 3lcl|AAX79175.1: 66
-Decode: 3lcl|AAX79175.1
-
-Terminais: [65, 6, 97, 29, 253, 142, 52, 64, 66]:240
-
-
-SUBTREE:
-tree_ORTHOMCL358_Inner5
-
-                                                         , 7lcl|XP_655103.2
-                    _____________________________________|
-                   |                                     | 6lcl|XP_655064.2
-___________________|
-                   |                        ___ 5lcl|CAA63555.1
-                   |                    ___|
-                   |___________________|   |_________________ 1lcl|AAC47440.1
-                                       |
-                                       |____________ 2lcl|AAN36041.1
-
-
-
-subtree clade: 7lcl|XP_655103.2: 65
-Decode: 7lcl|XP_655103.2
-subtree clade: 6lcl|XP_655064.2: 6
-Decode: 6lcl|XP_655064.2
-subtree clade: 5lcl|CAA63555.1: 97
-Decode: 5lcl|CAA63555.1
-subtree clade: 1lcl|AAC47440.1: 29
-Decode: 1lcl|AAC47440.1
-subtree clade: 2lcl|AAN36041.1: 253
-Decode: 2lcl|AAN36041.1
-
-Terminais: [65, 6, 97, 29, 253]:82
-
-
-SUBTREE:
-tree_ORTHOMCL358_Inner1
-
-                                                              , 7lcl|XP_655103.2
-______________________________________________________________|
-                                                              | 6lcl|XP_655064.2
-
-
-
-subtree clade: 7lcl|XP_655103.2: 65
-Decode: 7lcl|XP_655103.2
-subtree clade: 6lcl|XP_655064.2: 6
-Decode: 6lcl|XP_655064.2
-
-Terminais: [65, 6]:16
-
-
-SUBTREE:
-tree_ORTHOMCL358_Inner4
-
-                                     _____ 5lcl|CAA63555.1
-                                ____|
-_______________________________|    |__________________________ 1lcl|AAC47440.1
-                               |
-                               |__________________ 2lcl|AAN36041.1
-
-
-
-subtree clade: 5lcl|CAA63555.1: 97
-Decode: 5lcl|CAA63555.1
-subtree clade: 1lcl|AAC47440.1: 29
-Decode: 1lcl|AAC47440.1
-subtree clade: 2lcl|AAN36041.1: 253
-Decode: 2lcl|AAN36041.1
-
-Terminais: [97, 29, 253]:13
-
-
-SUBTREE:
-tree_ORTHOMCL358_Inner3
-
-           ____________ 5lcl|CAA63555.1
-__________|
-          |_____________________________________________________ 1lcl|AAC47440.1
-
-
-
-subtree clade: 5lcl|CAA63555.1: 97
-Decode: 5lcl|CAA63555.1
-subtree clade: 1lcl|AAC47440.1: 29
-Decode: 1lcl|AAC47440.1
-
-Terminais: [97, 29]:245
-
-
-SUBTREE:
-tree_ORTHOMCL358_Inner6
-
-   ___________________________________________________ 4lcl|AAZ10035.1
-__|
-  |                    ______________________ 9lcl|XP_814463.1
-  |___________________|
-                      |_______________________________________ 8lcl|XP_804960.1
-
-
-
-subtree clade: 4lcl|AAZ10035.1: 142
-Decode: 4lcl|AAZ10035.1
-subtree clade: 9lcl|XP_814463.1: 52
-Decode: 9lcl|XP_814463.1
-subtree clade: 8lcl|XP_804960.1: 64
-Decode: 8lcl|XP_804960.1
-
-Terminais: [142, 52, 64]:218
-
-
-SUBTREE:
-tree_ORTHOMCL358_Inner2
-
-                      _______________________ 9lcl|XP_814463.1
-_____________________|
-                     |_________________________________________ 8lcl|XP_804960.1
-
-
-
-subtree clade: 9lcl|XP_814463.1: 52
-Decode: 9lcl|XP_814463.1
-subtree clade: 8lcl|XP_804960.1: 64
-Decode: 8lcl|XP_804960.1
-
-Terminais: [52, 64]:169
-
-CLADES DA ARVORE tree_ORTHOMCL358:
-
-7lcl|XP_655103.2: 65
-6lcl|XP_655064.2: 6
-5lcl|CAA63555.1: 97
-1lcl|AAC47440.1: 29
-2lcl|AAN36041.1: 253
-4lcl|AAZ10035.1: 142
-9lcl|XP_814463.1: 52
-8lcl|XP_804960.1: 64
-3lcl|AAX79175.1: 66
 ----------------------------------------------------------------------------------------------------
 ====================================================================================================
 
@@ -1114,7 +724,7 @@ Decode: 4lcl|XP_652070.1
 subtree clade: 9lcl|XP_827937.1: 212
 Decode: 9lcl|XP_827937.1
 
-Terminais: [3, 181, 8, 58, 165, 79, 21, 254, 212]:42
+Terminais: [3, 181, 8, 58, 165, 79, 21, 254, 212]:{'list': [3, 181, 8, 58, 165, 79, 21, 254, 212], 'encode_list': 42}
 
 
 SUBTREE:
@@ -1131,7 +741,7 @@ Decode: 7lcl|XP_804874.1
 subtree clade: 8lcl|XP_811928.1: 181
 Decode: 8lcl|XP_811928.1
 
-Terminais: [3, 181]:36
+Terminais: [3, 181]:{'list': [3, 181], 'encode_list': 36}
 
 
 SUBTREE:
@@ -1148,7 +758,7 @@ Decode: 3lcl|XP_001685356.1
 subtree clade: 2lcl|XP_001683522.1: 58
 Decode: 2lcl|XP_001683522.1
 
-Terminais: [8, 58]:71
+Terminais: [8, 58]:{'list': [8, 58], 'encode_list': 71}
 
 
 SUBTREE:
@@ -1177,7 +787,7 @@ Decode: 4lcl|XP_652070.1
 subtree clade: 9lcl|XP_827937.1: 212
 Decode: 9lcl|XP_827937.1
 
-Terminais: [165, 79, 21, 254, 212]:110
+Terminais: [165, 79, 21, 254, 212]:{'list': [165, 79, 21, 254, 212], 'encode_list': 110}
 
 
 SUBTREE:
@@ -1202,7 +812,7 @@ Decode: 5lcl|XP_652305.1
 subtree clade: 4lcl|XP_652070.1: 254
 Decode: 4lcl|XP_652070.1
 
-Terminais: [165, 79, 21, 254]:46
+Terminais: [165, 79, 21, 254]:{'list': [165, 79, 21, 254], 'encode_list': 46}
 
 
 SUBTREE:
@@ -1223,7 +833,7 @@ Decode: 5lcl|XP_652305.1
 subtree clade: 4lcl|XP_652070.1: 254
 Decode: 4lcl|XP_652070.1
 
-Terminais: [79, 21, 254]:178
+Terminais: [79, 21, 254]:{'list': [79, 21, 254], 'encode_list': 178}
 
 
 SUBTREE:
@@ -1240,7 +850,7 @@ Decode: 5lcl|XP_652305.1
 subtree clade: 4lcl|XP_652070.1: 254
 Decode: 4lcl|XP_652070.1
 
-Terminais: [21, 254]:190
+Terminais: [21, 254]:{'list': [21, 254], 'encode_list': 190}
 
 CLADES DA ARVORE tree_ORTHOMCL320:
 
@@ -1257,271 +867,670 @@ CLADES DA ARVORE tree_ORTHOMCL320:
 ====================================================================================================
 
 TREE: HASH VALUE
-tree_ORTHOMCL256_2: 17
+tree_ORTHOMCL337: 93
 
 
 SUBTREE:
-tree_ORTHOMCL256_2_Inner8
+tree_ORTHOMCL337_Inner7
 
-   _ 7lcl|XP_808221.1
-  |
- ,|  ____ 10lcl|XP_822287.1
- || |
- || |                            ________________________ 2lcl|CAD51724.1
- ||_|  _________________________|
- |  | |                         |                      , 6lcl|XP_657212.1
- |  | |                         |______________________|
- |  | |                                                |, 5lcl|XP_656669.1
- |  |_|                                                ||
-_|    |                                                 | 4lcl|XP_655599.1
- |    |
- |    |  ___ 1lcl|AAZ14427.1
- |    |_|
- |      |_____ 3lcl|XP_001683137.1
+                         ______________________ 7lcl|XP_653142.1
+                        |
+                        |            ___________________ 2lcl|AAX79562.1
+  ______________________| __________|
+ |                      ||          |                   , 9lcl|XP_817430.1
+ |                      ||          |___________________|
+ |                      ||                              | 8lcl|XP_814268.1
+ |                       |
+ |                       |               _____ 1lcl|AAN08877.1
+_|                       |______________|
+ |                                      |_____ 6lcl|XP_001681074.1
  |
- | 8lcl|XP_817439.1
+ , 5lcl|XP_001350045.1
  |
- | 9lcl|XP_817889.1
+ | 4lcl|ABB91447.1
+ |
+ | 3lcl|ABB91446.1
 
 
 
-subtree clade: 7lcl|XP_808221.1: 43
-Decode: 7lcl|XP_808221.1
-subtree clade: 10lcl|XP_822287.1: 73
-Decode: 10lcl|XP_822287.1
-subtree clade: 2lcl|CAD51724.1: 186
-Decode: 2lcl|CAD51724.1
-subtree clade: 6lcl|XP_657212.1: 141
-Decode: 6lcl|XP_657212.1
-subtree clade: 5lcl|XP_656669.1: 218
-Decode: 5lcl|XP_656669.1
-subtree clade: 4lcl|XP_655599.1: 59
-Decode: 4lcl|XP_655599.1
-subtree clade: 1lcl|AAZ14427.1: 178
-Decode: 1lcl|AAZ14427.1
-subtree clade: 3lcl|XP_001683137.1: 21
-Decode: 3lcl|XP_001683137.1
-subtree clade: 8lcl|XP_817439.1: 181
-Decode: 8lcl|XP_817439.1
-subtree clade: 9lcl|XP_817889.1: 108
-Decode: 9lcl|XP_817889.1
+subtree clade: 7lcl|XP_653142.1: 123
+Decode: 7lcl|XP_653142.1
+subtree clade: 2lcl|AAX79562.1: 117
+Decode: 2lcl|AAX79562.1
+subtree clade: 9lcl|XP_817430.1: 44
+Decode: 9lcl|XP_817430.1
+subtree clade: 8lcl|XP_814268.1: 175
+Decode: 8lcl|XP_814268.1
+subtree clade: 1lcl|AAN08877.1: 103
+Decode: 1lcl|AAN08877.1
+subtree clade: 6lcl|XP_001681074.1: 16
+Decode: 6lcl|XP_001681074.1
+subtree clade: 5lcl|XP_001350045.1: 162
+Decode: 5lcl|XP_001350045.1
+subtree clade: 4lcl|ABB91447.1: 10
+Decode: 4lcl|ABB91447.1
+subtree clade: 3lcl|ABB91446.1: 171
+Decode: 3lcl|ABB91446.1
 
-Terminais: [43, 73, 186, 141, 218, 59, 178, 21, 181, 108]:84
+Terminais: [123, 117, 44, 175, 103, 16, 162, 10, 171]:{'list': [123, 117, 44, 175, 103, 16, 162, 10, 171], 'encode_list': 123}
 
 
 SUBTREE:
-tree_ORTHOMCL256_2_Inner7
+tree_ORTHOMCL337_Inner5
 
-   _ 7lcl|XP_808221.1
+                         _______________________ 7lcl|XP_653142.1
+                        |
+                        |             ___________________ 2lcl|AAX79562.1
+________________________| ___________|
+                        ||           |                   , 9lcl|XP_817430.1
+                        ||           |___________________|
+                        ||                               | 8lcl|XP_814268.1
+                         |
+                         |                _____ 1lcl|AAN08877.1
+                         |_______________|
+                                         |_____ 6lcl|XP_001681074.1
+
+
+
+subtree clade: 7lcl|XP_653142.1: 123
+Decode: 7lcl|XP_653142.1
+subtree clade: 2lcl|AAX79562.1: 117
+Decode: 2lcl|AAX79562.1
+subtree clade: 9lcl|XP_817430.1: 44
+Decode: 9lcl|XP_817430.1
+subtree clade: 8lcl|XP_814268.1: 175
+Decode: 8lcl|XP_814268.1
+subtree clade: 1lcl|AAN08877.1: 103
+Decode: 1lcl|AAN08877.1
+subtree clade: 6lcl|XP_001681074.1: 16
+Decode: 6lcl|XP_001681074.1
+
+Terminais: [123, 117, 44, 175, 103, 16]:{'list': [123, 117, 44, 175, 103, 16], 'encode_list': 157}
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner4
+
+                       __________________________________ 2lcl|AAX79562.1
+   ___________________|
+  |                   |                                  _ 9lcl|XP_817430.1
+  |                   |_________________________________|
+__|                                                     | 8lcl|XP_814268.1
   |
-__|  ____ 10lcl|XP_822287.1
-  | |
-  | |                             _______________________ 2lcl|CAD51724.1
-  |_|  __________________________|
-    | |                          |                      , 6lcl|XP_657212.1
-    | |                          |______________________|
-    | |                                                 |, 5lcl|XP_656669.1
-    |_|                                                 ||
-      |                                                  | 4lcl|XP_655599.1
-      |
-      |  ___ 1lcl|AAZ14427.1
-      |_|
-        |_____ 3lcl|XP_001683137.1
+  |                           _________ 1lcl|AAN08877.1
+  |__________________________|
+                             |__________ 6lcl|XP_001681074.1
 
 
 
-subtree clade: 7lcl|XP_808221.1: 43
-Decode: 7lcl|XP_808221.1
-subtree clade: 10lcl|XP_822287.1: 73
-Decode: 10lcl|XP_822287.1
-subtree clade: 2lcl|CAD51724.1: 186
-Decode: 2lcl|CAD51724.1
-subtree clade: 6lcl|XP_657212.1: 141
-Decode: 6lcl|XP_657212.1
-subtree clade: 5lcl|XP_656669.1: 218
-Decode: 5lcl|XP_656669.1
-subtree clade: 4lcl|XP_655599.1: 59
-Decode: 4lcl|XP_655599.1
-subtree clade: 1lcl|AAZ14427.1: 178
-Decode: 1lcl|AAZ14427.1
-subtree clade: 3lcl|XP_001683137.1: 21
-Decode: 3lcl|XP_001683137.1
+subtree clade: 2lcl|AAX79562.1: 117
+Decode: 2lcl|AAX79562.1
+subtree clade: 9lcl|XP_817430.1: 44
+Decode: 9lcl|XP_817430.1
+subtree clade: 8lcl|XP_814268.1: 175
+Decode: 8lcl|XP_814268.1
+subtree clade: 1lcl|AAN08877.1: 103
+Decode: 1lcl|AAN08877.1
+subtree clade: 6lcl|XP_001681074.1: 16
+Decode: 6lcl|XP_001681074.1
 
-Terminais: [43, 73, 186, 141, 218, 59, 178, 21]:222
+Terminais: [117, 44, 175, 103, 16]:{'list': [117, 44, 175, 103, 16], 'encode_list': 81}
 
 
 SUBTREE:
-tree_ORTHOMCL256_2_Inner6
+tree_ORTHOMCL337_Inner3
 
-    ____ 10lcl|XP_822287.1
-   |
-   |                             _________________________ 2lcl|CAD51724.1
-___|  __________________________|
-   | |                          |                       , 6lcl|XP_657212.1
-   | |                          |_______________________|
-   | |                                                  |, 5lcl|XP_656669.1
-   |_|                                                  ||
-     |                                                   | 4lcl|XP_655599.1
+                       ______________________________________ 2lcl|AAX79562.1
+______________________|
+                      |                                      _ 9lcl|XP_817430.1
+                      |_____________________________________|
+                                                            | 8lcl|XP_814268.1
+
+
+
+subtree clade: 2lcl|AAX79562.1: 117
+Decode: 2lcl|AAX79562.1
+subtree clade: 9lcl|XP_817430.1: 44
+Decode: 9lcl|XP_817430.1
+subtree clade: 8lcl|XP_814268.1: 175
+Decode: 8lcl|XP_814268.1
+
+Terminais: [117, 44, 175]:{'list': [117, 44, 175], 'encode_list': 40}
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner1
+
+                                                             __ 9lcl|XP_817430.1
+____________________________________________________________|
+                                                            |_ 8lcl|XP_814268.1
+
+
+
+subtree clade: 9lcl|XP_817430.1: 44
+Decode: 9lcl|XP_817430.1
+subtree clade: 8lcl|XP_814268.1: 175
+Decode: 8lcl|XP_814268.1
+
+Terminais: [44, 175]:{'list': [44, 175], 'encode_list': 29}
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner2
+
+                                           _______________ 1lcl|AAN08877.1
+__________________________________________|
+                                          |_________________ 6lcl|XP_001681074.1
+
+
+
+subtree clade: 1lcl|AAN08877.1: 103
+Decode: 1lcl|AAN08877.1
+subtree clade: 6lcl|XP_001681074.1: 16
+Decode: 6lcl|XP_001681074.1
+
+Terminais: [103, 16]:{'list': [103, 16], 'encode_list': 135}
+
+
+SUBTREE:
+tree_ORTHOMCL337_Inner6
+
+         ______ 5lcl|XP_001350045.1
+________|
+        |___________________________________________________ 4lcl|ABB91447.1
+
+
+
+subtree clade: 5lcl|XP_001350045.1: 162
+Decode: 5lcl|XP_001350045.1
+subtree clade: 4lcl|ABB91447.1: 10
+Decode: 4lcl|ABB91447.1
+
+Terminais: [162, 10]:{'list': [162, 10], 'encode_list': 241}
+
+CLADES DA ARVORE tree_ORTHOMCL337:
+
+7lcl|XP_653142.1: 123
+2lcl|AAX79562.1: 117
+9lcl|XP_817430.1: 44
+8lcl|XP_814268.1: 175
+1lcl|AAN08877.1: 103
+6lcl|XP_001681074.1: 16
+5lcl|XP_001350045.1: 162
+4lcl|ABB91447.1: 10
+3lcl|ABB91446.1: 171
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL358: 176
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner7
+
+                                                        , 7lcl|XP_655103.2
+                    ____________________________________|
+                   |                                    | 6lcl|XP_655064.2
+  _________________|
+ |                 |                       ___ 5lcl|CAA63555.1
+ |                 |                    __|
+ |                 |___________________|  |_________________ 1lcl|AAC47440.1
+ |                                     |
+ |                                     |___________ 2lcl|AAN36041.1
+_|
+ | _______________________________________________ 4lcl|AAZ10035.1
+ ||
+ ||                  ____________________ 9lcl|XP_814463.1
+ ||_________________|
+ |                  |___________________________________ 8lcl|XP_804960.1
+ |
+ |_________________________ 3lcl|AAX79175.1
+
+
+
+subtree clade: 7lcl|XP_655103.2: 65
+Decode: 7lcl|XP_655103.2
+subtree clade: 6lcl|XP_655064.2: 6
+Decode: 6lcl|XP_655064.2
+subtree clade: 5lcl|CAA63555.1: 97
+Decode: 5lcl|CAA63555.1
+subtree clade: 1lcl|AAC47440.1: 29
+Decode: 1lcl|AAC47440.1
+subtree clade: 2lcl|AAN36041.1: 253
+Decode: 2lcl|AAN36041.1
+subtree clade: 4lcl|AAZ10035.1: 142
+Decode: 4lcl|AAZ10035.1
+subtree clade: 9lcl|XP_814463.1: 52
+Decode: 9lcl|XP_814463.1
+subtree clade: 8lcl|XP_804960.1: 64
+Decode: 8lcl|XP_804960.1
+subtree clade: 3lcl|AAX79175.1: 66
+Decode: 3lcl|AAX79175.1
+
+Terminais: [65, 6, 97, 29, 253, 142, 52, 64, 66]:{'list': [65, 6, 97, 29, 253, 142, 52, 64, 66], 'encode_list': 240}
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner5
+
+                                                         , 7lcl|XP_655103.2
+                    _____________________________________|
+                   |                                     | 6lcl|XP_655064.2
+___________________|
+                   |                        ___ 5lcl|CAA63555.1
+                   |                    ___|
+                   |___________________|   |_________________ 1lcl|AAC47440.1
+                                       |
+                                       |____________ 2lcl|AAN36041.1
+
+
+
+subtree clade: 7lcl|XP_655103.2: 65
+Decode: 7lcl|XP_655103.2
+subtree clade: 6lcl|XP_655064.2: 6
+Decode: 6lcl|XP_655064.2
+subtree clade: 5lcl|CAA63555.1: 97
+Decode: 5lcl|CAA63555.1
+subtree clade: 1lcl|AAC47440.1: 29
+Decode: 1lcl|AAC47440.1
+subtree clade: 2lcl|AAN36041.1: 253
+Decode: 2lcl|AAN36041.1
+
+Terminais: [65, 6, 97, 29, 253]:{'list': [65, 6, 97, 29, 253], 'encode_list': 82}
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner1
+
+                                                              , 7lcl|XP_655103.2
+______________________________________________________________|
+                                                              | 6lcl|XP_655064.2
+
+
+
+subtree clade: 7lcl|XP_655103.2: 65
+Decode: 7lcl|XP_655103.2
+subtree clade: 6lcl|XP_655064.2: 6
+Decode: 6lcl|XP_655064.2
+
+Terminais: [65, 6]:{'list': [65, 6], 'encode_list': 16}
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner4
+
+                                     _____ 5lcl|CAA63555.1
+                                ____|
+_______________________________|    |__________________________ 1lcl|AAC47440.1
+                               |
+                               |__________________ 2lcl|AAN36041.1
+
+
+
+subtree clade: 5lcl|CAA63555.1: 97
+Decode: 5lcl|CAA63555.1
+subtree clade: 1lcl|AAC47440.1: 29
+Decode: 1lcl|AAC47440.1
+subtree clade: 2lcl|AAN36041.1: 253
+Decode: 2lcl|AAN36041.1
+
+Terminais: [97, 29, 253]:{'list': [97, 29, 253], 'encode_list': 13}
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner3
+
+           ____________ 5lcl|CAA63555.1
+__________|
+          |_____________________________________________________ 1lcl|AAC47440.1
+
+
+
+subtree clade: 5lcl|CAA63555.1: 97
+Decode: 5lcl|CAA63555.1
+subtree clade: 1lcl|AAC47440.1: 29
+Decode: 1lcl|AAC47440.1
+
+Terminais: [97, 29]:{'list': [97, 29], 'encode_list': 245}
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner6
+
+   ___________________________________________________ 4lcl|AAZ10035.1
+__|
+  |                    ______________________ 9lcl|XP_814463.1
+  |___________________|
+                      |_______________________________________ 8lcl|XP_804960.1
+
+
+
+subtree clade: 4lcl|AAZ10035.1: 142
+Decode: 4lcl|AAZ10035.1
+subtree clade: 9lcl|XP_814463.1: 52
+Decode: 9lcl|XP_814463.1
+subtree clade: 8lcl|XP_804960.1: 64
+Decode: 8lcl|XP_804960.1
+
+Terminais: [142, 52, 64]:{'list': [142, 52, 64], 'encode_list': 218}
+
+
+SUBTREE:
+tree_ORTHOMCL358_Inner2
+
+                      _______________________ 9lcl|XP_814463.1
+_____________________|
+                     |_________________________________________ 8lcl|XP_804960.1
+
+
+
+subtree clade: 9lcl|XP_814463.1: 52
+Decode: 9lcl|XP_814463.1
+subtree clade: 8lcl|XP_804960.1: 64
+Decode: 8lcl|XP_804960.1
+
+Terminais: [52, 64]:{'list': [52, 64], 'encode_list': 169}
+
+CLADES DA ARVORE tree_ORTHOMCL358:
+
+7lcl|XP_655103.2: 65
+6lcl|XP_655064.2: 6
+5lcl|CAA63555.1: 97
+1lcl|AAC47440.1: 29
+2lcl|AAN36041.1: 253
+4lcl|AAZ10035.1: 142
+9lcl|XP_814463.1: 52
+8lcl|XP_804960.1: 64
+3lcl|AAX79175.1: 66
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL364: 144
+
+
+SUBTREE:
+tree_ORTHOMCL364_Inner7
+
+                                   _____________________ 4lcl|AAZ09536.1
+      ____________________________|
+     |                            |      ____________ 1lcl|AAA73081.1
+     |                            |_____|
+     |                                  |          , 9lcl|XP_818131.1
+  ___|                                  |__________|
+ |   |                                             | 8lcl|XP_810170.1
+ |   |
+ |   |       , 6lcl|XP_653586.1
+ |   |_______|
+_|           | 7lcl|XP_657292.1
+ |
+ |   , 3lcl|AAF15357.1
+ |___|
+ |   | 2lcl|AAC41606.1
+ |
+ |___ 5lcl|XP_001349346.1
+
+
+
+subtree clade: 4lcl|AAZ09536.1: 181
+Decode: 4lcl|AAZ09536.1
+subtree clade: 1lcl|AAA73081.1: 164
+Decode: 1lcl|AAA73081.1
+subtree clade: 9lcl|XP_818131.1: 17
+Decode: 9lcl|XP_818131.1
+subtree clade: 8lcl|XP_810170.1: 176
+Decode: 8lcl|XP_810170.1
+subtree clade: 6lcl|XP_653586.1: 120
+Decode: 6lcl|XP_653586.1
+subtree clade: 7lcl|XP_657292.1: 122
+Decode: 7lcl|XP_657292.1
+subtree clade: 3lcl|AAF15357.1: 33
+Decode: 3lcl|AAF15357.1
+subtree clade: 2lcl|AAC41606.1: 27
+Decode: 2lcl|AAC41606.1
+subtree clade: 5lcl|XP_001349346.1: 42
+Decode: 5lcl|XP_001349346.1
+
+Terminais: [181, 164, 17, 176, 120, 122, 33, 27, 42]:{'list': [181, 164, 17, 176, 120, 122, 33, 27, 42], 'encode_list': 162}
+
+
+SUBTREE:
+tree_ORTHOMCL364_Inner6
+
+                                     ________________________ 4lcl|AAZ09536.1
+      ______________________________|
+     |                              |       ____________ 1lcl|AAA73081.1
+     |                              |______|
+     |                                     |           , 9lcl|XP_818131.1
+_____|                                     |___________|
+     |                                                 | 8lcl|XP_810170.1
      |
-     |  ___ 1lcl|AAZ14427.1
-     |_|
-       |_____ 3lcl|XP_001683137.1
+     |        _ 6lcl|XP_653586.1
+     |_______|
+             |_ 7lcl|XP_657292.1
 
 
 
-subtree clade: 10lcl|XP_822287.1: 73
-Decode: 10lcl|XP_822287.1
-subtree clade: 2lcl|CAD51724.1: 186
-Decode: 2lcl|CAD51724.1
-subtree clade: 6lcl|XP_657212.1: 141
-Decode: 6lcl|XP_657212.1
-subtree clade: 5lcl|XP_656669.1: 218
-Decode: 5lcl|XP_656669.1
-subtree clade: 4lcl|XP_655599.1: 59
-Decode: 4lcl|XP_655599.1
-subtree clade: 1lcl|AAZ14427.1: 178
-Decode: 1lcl|AAZ14427.1
-subtree clade: 3lcl|XP_001683137.1: 21
-Decode: 3lcl|XP_001683137.1
+subtree clade: 4lcl|AAZ09536.1: 181
+Decode: 4lcl|AAZ09536.1
+subtree clade: 1lcl|AAA73081.1: 164
+Decode: 1lcl|AAA73081.1
+subtree clade: 9lcl|XP_818131.1: 17
+Decode: 9lcl|XP_818131.1
+subtree clade: 8lcl|XP_810170.1: 176
+Decode: 8lcl|XP_810170.1
+subtree clade: 6lcl|XP_653586.1: 120
+Decode: 6lcl|XP_653586.1
+subtree clade: 7lcl|XP_657292.1: 122
+Decode: 7lcl|XP_657292.1
 
-Terminais: [73, 186, 141, 218, 59, 178, 21]:28
-
-
-SUBTREE:
-tree_ORTHOMCL256_2_Inner5
-
-                                __________________________ 2lcl|CAD51724.1
-    ___________________________|
-   |                           |                        , 6lcl|XP_657212.1
-   |                           |________________________|
-   |                                                    |, 5lcl|XP_656669.1
-___|                                                    ||
-   |                                                     | 4lcl|XP_655599.1
-   |
-   |  ___ 1lcl|AAZ14427.1
-   |_|
-     |_____ 3lcl|XP_001683137.1
-
-
-
-subtree clade: 2lcl|CAD51724.1: 186
-Decode: 2lcl|CAD51724.1
-subtree clade: 6lcl|XP_657212.1: 141
-Decode: 6lcl|XP_657212.1
-subtree clade: 5lcl|XP_656669.1: 218
-Decode: 5lcl|XP_656669.1
-subtree clade: 4lcl|XP_655599.1: 59
-Decode: 4lcl|XP_655599.1
-subtree clade: 1lcl|AAZ14427.1: 178
-Decode: 1lcl|AAZ14427.1
-subtree clade: 3lcl|XP_001683137.1: 21
-Decode: 3lcl|XP_001683137.1
-
-Terminais: [186, 141, 218, 59, 178, 21]:50
+Terminais: [181, 164, 17, 176, 120, 122]:{'list': [181, 164, 17, 176, 120, 122], 'encode_list': 48}
 
 
 SUBTREE:
-tree_ORTHOMCL256_2_Inner3
+tree_ORTHOMCL364_Inner3
 
-                                 _____________________________ 2lcl|CAD51724.1
-________________________________|
-                                |                           , 6lcl|XP_657212.1
-                                |___________________________|
-                                                            |, 5lcl|XP_656669.1
-                                                            ||
-                                                             | 4lcl|XP_655599.1
-
-
-
-subtree clade: 2lcl|CAD51724.1: 186
-Decode: 2lcl|CAD51724.1
-subtree clade: 6lcl|XP_657212.1: 141
-Decode: 6lcl|XP_657212.1
-subtree clade: 5lcl|XP_656669.1: 218
-Decode: 5lcl|XP_656669.1
-subtree clade: 4lcl|XP_655599.1: 59
-Decode: 4lcl|XP_655599.1
-
-Terminais: [186, 141, 218, 59]:16
-
-
-SUBTREE:
-tree_ORTHOMCL256_2_Inner2
-
-                                                            _ 6lcl|XP_657212.1
-___________________________________________________________|
-                                                           | _ 5lcl|XP_656669.1
-                                                           ||
-                                                            | 4lcl|XP_655599.1
+                                   __________________________ 4lcl|AAZ09536.1
+__________________________________|
+                                  |        ______________ 1lcl|AAA73081.1
+                                  |_______|
+                                          |            , 9lcl|XP_818131.1
+                                          |____________|
+                                                       | 8lcl|XP_810170.1
 
 
 
-subtree clade: 6lcl|XP_657212.1: 141
-Decode: 6lcl|XP_657212.1
-subtree clade: 5lcl|XP_656669.1: 218
-Decode: 5lcl|XP_656669.1
-subtree clade: 4lcl|XP_655599.1: 59
-Decode: 4lcl|XP_655599.1
+subtree clade: 4lcl|AAZ09536.1: 181
+Decode: 4lcl|AAZ09536.1
+subtree clade: 1lcl|AAA73081.1: 164
+Decode: 1lcl|AAA73081.1
+subtree clade: 9lcl|XP_818131.1: 17
+Decode: 9lcl|XP_818131.1
+subtree clade: 8lcl|XP_810170.1: 176
+Decode: 8lcl|XP_810170.1
 
-Terminais: [141, 218, 59]:49
+Terminais: [181, 164, 17, 176]:{'list': [181, 164, 17, 176], 'encode_list': 36}
 
 
 SUBTREE:
-tree_ORTHOMCL256_2_Inner1
+tree_ORTHOMCL364_Inner2
 
-                                     __________________________ 5lcl|XP_656669.1
-____________________________________|
-                                    |____________________ 4lcl|XP_655599.1
+                      ________________________________________ 1lcl|AAA73081.1
+_____________________|
+                     |                                    , 9lcl|XP_818131.1
+                     |____________________________________|
+                                                          | 8lcl|XP_810170.1
 
 
 
-subtree clade: 5lcl|XP_656669.1: 218
-Decode: 5lcl|XP_656669.1
-subtree clade: 4lcl|XP_655599.1: 59
-Decode: 4lcl|XP_655599.1
+subtree clade: 1lcl|AAA73081.1: 164
+Decode: 1lcl|AAA73081.1
+subtree clade: 9lcl|XP_818131.1: 17
+Decode: 9lcl|XP_818131.1
+subtree clade: 8lcl|XP_810170.1: 176
+Decode: 8lcl|XP_810170.1
 
-Terminais: [218, 59]:41
+Terminais: [164, 17, 176]:{'list': [164, 17, 176], 'encode_list': 215}
 
 
 SUBTREE:
-tree_ORTHOMCL256_2_Inner4
+tree_ORTHOMCL364_Inner1
 
-                  ________________________________ 1lcl|AAZ14427.1
-_________________|
-                 |__________________________________________ 3lcl|XP_001683137.1
+                                                             __ 9lcl|XP_818131.1
+____________________________________________________________|
+                                                            |_ 8lcl|XP_810170.1
 
 
 
-subtree clade: 1lcl|AAZ14427.1: 178
-Decode: 1lcl|AAZ14427.1
-subtree clade: 3lcl|XP_001683137.1: 21
-Decode: 3lcl|XP_001683137.1
+subtree clade: 9lcl|XP_818131.1: 17
+Decode: 9lcl|XP_818131.1
+subtree clade: 8lcl|XP_810170.1: 176
+Decode: 8lcl|XP_810170.1
 
-Terminais: [178, 21]:229
+Terminais: [17, 176]:{'list': [17, 176], 'encode_list': 66}
 
-CLADES DA ARVORE tree_ORTHOMCL256_2:
 
-7lcl|XP_808221.1: 43
-10lcl|XP_822287.1: 73
-2lcl|CAD51724.1: 186
-6lcl|XP_657212.1: 141
-5lcl|XP_656669.1: 218
-4lcl|XP_655599.1: 59
-1lcl|AAZ14427.1: 178
-3lcl|XP_001683137.1: 21
-8lcl|XP_817439.1: 181
-9lcl|XP_817889.1: 108
+SUBTREE:
+tree_ORTHOMCL364_Inner4
+
+                                                    _______ 6lcl|XP_653586.1
+___________________________________________________|
+                                                   |___________ 7lcl|XP_657292.1
+
+
+
+subtree clade: 6lcl|XP_653586.1: 120
+Decode: 6lcl|XP_653586.1
+subtree clade: 7lcl|XP_657292.1: 122
+Decode: 7lcl|XP_657292.1
+
+Terminais: [120, 122]:{'list': [120, 122], 'encode_list': 250}
+
+
+SUBTREE:
+tree_ORTHOMCL364_Inner5
+
+                                                               _ 3lcl|AAF15357.1
+______________________________________________________________|
+                                                              | 2lcl|AAC41606.1
+
+
+
+subtree clade: 3lcl|AAF15357.1: 33
+Decode: 3lcl|AAF15357.1
+subtree clade: 2lcl|AAC41606.1: 27
+Decode: 2lcl|AAC41606.1
+
+Terminais: [33, 27]:{'list': [33, 27], 'encode_list': 209}
+
+CLADES DA ARVORE tree_ORTHOMCL364:
+
+4lcl|AAZ09536.1: 181
+1lcl|AAA73081.1: 164
+9lcl|XP_818131.1: 17
+8lcl|XP_810170.1: 176
+6lcl|XP_653586.1: 120
+7lcl|XP_657292.1: 122
+3lcl|AAF15357.1: 33
+2lcl|AAC41606.1: 27
+5lcl|XP_001349346.1: 42
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+TREE: HASH VALUE
+tree_ORTHOMCL1: 30
+
+
+SUBTREE:
+tree_ORTHOMCL1_Inner3
+
+           ___ 1lcl|AAG00459.1
+  ________|
+ |        |_____ 5lcl|XP_813700.1
+ |
+_|______________ 3lcl|AAZ14670.1
+ |
+ |                         _______________________________ 4lcl|XP_653680.1
+ |________________________|
+                          |__________________________________ 2lcl|AAN35864.1
+
+
+
+subtree clade: 1lcl|AAG00459.1: 59
+Decode: 1lcl|AAG00459.1
+subtree clade: 5lcl|XP_813700.1: 35
+Decode: 5lcl|XP_813700.1
+subtree clade: 3lcl|AAZ14670.1: 191
+Decode: 3lcl|AAZ14670.1
+subtree clade: 4lcl|XP_653680.1: 47
+Decode: 4lcl|XP_653680.1
+subtree clade: 2lcl|AAN35864.1: 63
+Decode: 2lcl|AAN35864.1
+
+Terminais: [59, 35, 191, 47, 63]:{'list': [59, 35, 191, 47, 63], 'encode_list': 7}
+
+
+SUBTREE:
+tree_ORTHOMCL1_Inner2
+
+                                        ______________ 1lcl|AAG00459.1
+_______________________________________|
+                                       |_______________________ 5lcl|XP_813700.1
+
+
+
+subtree clade: 1lcl|AAG00459.1: 59
+Decode: 1lcl|AAG00459.1
+subtree clade: 5lcl|XP_813700.1: 35
+Decode: 5lcl|XP_813700.1
+
+Terminais: [59, 35]:{'list': [59, 35], 'encode_list': 79}
+
+
+SUBTREE:
+tree_ORTHOMCL1_Inner1
+
+                            ________________________________ 4lcl|XP_653680.1
+___________________________|
+                           |___________________________________ 2lcl|AAN35864.1
+
+
+
+subtree clade: 4lcl|XP_653680.1: 47
+Decode: 4lcl|XP_653680.1
+subtree clade: 2lcl|AAN35864.1: 63
+Decode: 2lcl|AAN35864.1
+
+Terminais: [47, 63]:{'list': [47, 63], 'encode_list': 94}
+
+CLADES DA ARVORE tree_ORTHOMCL1:
+
+1lcl|AAG00459.1: 59
+5lcl|XP_813700.1: 35
+3lcl|AAZ14670.1: 191
+4lcl|XP_653680.1: 47
+2lcl|AAN35864.1: 63
 ----------------------------------------------------------------------------------------------------
 
 HASH KEY ARRAY BEFORE NORMALIZING
 
-[[198, 85, 226, 33, 104, 99, 165, 225], [198, 85, 226, 33, 104], [85, 226, 33, 104], [85, 226], [33, 104], [99, 165]]
-[[123, 117, 44, 175, 103, 16, 162, 10, 171], [123, 117, 44, 175, 103, 16], [117, 44, 175, 103, 16], [117, 44, 175], [44, 175], [103, 16], [162, 10]]
-[[59, 35, 191, 47, 63], [59, 35], [47, 63]]
-[[43, 73, 186, 3, 218, 59, 131, 21, 181, 108], [43, 73, 186, 3, 218, 59, 131, 21], [73, 186, 3, 218, 59, 131, 21], [186, 3, 218, 59, 131, 21], [186, 3, 218, 59], [3, 218, 59], [218, 59], [131, 21]]
-[[181, 164, 17, 176, 120, 122, 33, 27, 42], [181, 164, 17, 176, 120, 122], [181, 164, 17, 176], [164, 17, 176], [17, 176], [120, 122], [33, 27]]
-[[65, 6, 97, 29, 253, 142, 52, 64, 66], [65, 6, 97, 29, 253], [65, 6], [97, 29, 253], [97, 29], [142, 52, 64], [52, 64]]
-[[3, 181, 8, 58, 165, 79, 21, 254, 212], [3, 181], [8, 58], [165, 79, 21, 254, 212], [165, 79, 21, 254], [79, 21, 254], [21, 254]]
-[[43, 73, 186, 141, 218, 59, 178, 21, 181, 108], [43, 73, 186, 141, 218, 59, 178, 21], [73, 186, 141, 218, 59, 178, 21], [186, 141, 218, 59, 178, 21], [186, 141, 218, 59], [141, 218, 59], [218, 59], [178, 21]]
+[84, 222, 28, 50, 16, 49, 41, 229]
+[141, 145, 56, 136, 63, 85]
+[32, 45, 72, 17, 14, 137, 41, 196]
+[42, 36, 71, 110, 46, 178, 190]
+[123, 157, 81, 40, 29, 135, 241]
+[240, 82, 16, 13, 245, 218, 169]
+[162, 48, 36, 215, 66, 250, 209]
+[7, 79, 94]
 
 DIM: 8x8  --------------------
+
+HASH KEY ARRAY AFTER NORMALIZING
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        frozenset({16})
+frozenset({36})
+frozenset({41})
+frozenset({16})
+frozenset({36})
+frozenset({41})
