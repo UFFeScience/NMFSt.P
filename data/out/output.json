@@ -2,18 +2,6 @@
   {
     "tree_ORTHOMCL256_2": {
       "tree_ORTHOMCL256_2_Inner8": {
-        "Terminals": [
-          43,
-          73,
-          186,
-          141,
-          218,
-          59,
-          178,
-          21,
-          181,
-          108
-        ],
         "List_terminals_hash": {
           "list": [
             43,
@@ -73,16 +61,6 @@
         ]
       },
       "tree_ORTHOMCL256_2_Inner7": {
-        "Terminals": [
-          43,
-          73,
-          186,
-          141,
-          218,
-          59,
-          178,
-          21
-        ],
         "List_terminals_hash": {
           "list": [
             43,
@@ -132,15 +110,6 @@
         ]
       },
       "tree_ORTHOMCL256_2_Inner6": {
-        "Terminals": [
-          73,
-          186,
-          141,
-          218,
-          59,
-          178,
-          21
-        ],
         "List_terminals_hash": {
           "list": [
             73,
@@ -185,14 +154,6 @@
         ]
       },
       "tree_ORTHOMCL256_2_Inner5": {
-        "Terminals": [
-          186,
-          141,
-          218,
-          59,
-          178,
-          21
-        ],
         "List_terminals_hash": {
           "list": [
             186,
@@ -232,12 +193,6 @@
         ]
       },
       "tree_ORTHOMCL256_2_Inner3": {
-        "Terminals": [
-          186,
-          141,
-          218,
-          59
-        ],
         "List_terminals_hash": {
           "list": [
             186,
@@ -267,11 +222,6 @@
         ]
       },
       "tree_ORTHOMCL256_2_Inner2": {
-        "Terminals": [
-          141,
-          218,
-          59
-        ],
         "List_terminals_hash": {
           "list": [
             141,
@@ -296,10 +246,6 @@
         ]
       },
       "tree_ORTHOMCL256_2_Inner1": {
-        "Terminals": [
-          218,
-          59
-        ],
         "List_terminals_hash": {
           "list": [
             218,
@@ -319,10 +265,6 @@
         ]
       },
       "tree_ORTHOMCL256_2_Inner4": {
-        "Terminals": [
-          178,
-          21
-        ],
         "List_terminals_hash": {
           "list": [
             178,
@@ -346,16 +288,6 @@
   {
     "tree_ORTHOMCL371": {
       "tree_ORTHOMCL371_Inner6": {
-        "Terminals": [
-          198,
-          85,
-          226,
-          33,
-          104,
-          99,
-          165,
-          225
-        ],
         "List_terminals_hash": {
           "list": [
             198,
@@ -405,13 +337,6 @@
         ]
       },
       "tree_ORTHOMCL371_Inner4": {
-        "Terminals": [
-          198,
-          85,
-          226,
-          33,
-          104
-        ],
         "List_terminals_hash": {
           "list": [
             198,
@@ -446,12 +371,6 @@
         ]
       },
       "tree_ORTHOMCL371_Inner3": {
-        "Terminals": [
-          85,
-          226,
-          33,
-          104
-        ],
         "List_terminals_hash": {
           "list": [
             85,
@@ -481,10 +400,6 @@
         ]
       },
       "tree_ORTHOMCL371_Inner1": {
-        "Terminals": [
-          85,
-          226
-        ],
         "List_terminals_hash": {
           "list": [
             85,
@@ -504,10 +419,6 @@
         ]
       },
       "tree_ORTHOMCL371_Inner2": {
-        "Terminals": [
-          33,
-          104
-        ],
         "List_terminals_hash": {
           "list": [
             33,
@@ -527,10 +438,6 @@
         ]
       },
       "tree_ORTHOMCL371_Inner5": {
-        "Terminals": [
-          99,
-          165
-        ],
         "List_terminals_hash": {
           "list": [
             99,
@@ -554,18 +461,6 @@
   {
     "tree_ORTHOMCL256": {
       "tree_ORTHOMCL256_Inner8": {
-        "Terminals": [
-          43,
-          73,
-          186,
-          3,
-          218,
-          59,
-          131,
-          21,
-          181,
-          108
-        ],
         "List_terminals_hash": {
           "list": [
             43,
@@ -625,16 +520,6 @@
         ]
       },
       "tree_ORTHOMCL256_Inner7": {
-        "Terminals": [
-          43,
-          73,
-          186,
-          3,
-          218,
-          59,
-          131,
-          21
-        ],
         "List_terminals_hash": {
           "list": [
             43,
@@ -684,15 +569,6 @@
         ]
       },
       "tree_ORTHOMCL256_Inner6": {
-        "Terminals": [
-          73,
-          186,
-          3,
-          218,
-          59,
-          131,
-          21
-        ],
         "List_terminals_hash": {
           "list": [
             73,
@@ -737,14 +613,6 @@
         ]
       },
       "tree_ORTHOMCL256_Inner5": {
-        "Terminals": [
-          186,
-          3,
-          218,
-          59,
-          131,
-          21
-        ],
         "List_terminals_hash": {
           "list": [
             186,
@@ -784,12 +652,6 @@
         ]
       },
       "tree_ORTHOMCL256_Inner3": {
-        "Terminals": [
-          186,
-          3,
-          218,
-          59
-        ],
         "List_terminals_hash": {
           "list": [
             186,
@@ -819,11 +681,6 @@
         ]
       },
       "tree_ORTHOMCL256_Inner2": {
-        "Terminals": [
-          3,
-          218,
-          59
-        ],
         "List_terminals_hash": {
           "list": [
             3,
@@ -848,10 +705,6 @@
         ]
       },
       "tree_ORTHOMCL256_Inner1": {
-        "Terminals": [
-          218,
-          59
-        ],
         "List_terminals_hash": {
           "list": [
             218,
@@ -871,10 +724,6 @@
         ]
       },
       "tree_ORTHOMCL256_Inner4": {
-        "Terminals": [
-          131,
-          21
-        ],
         "List_terminals_hash": {
           "list": [
             131,
@@ -898,17 +747,6 @@
   {
     "tree_ORTHOMCL320": {
       "tree_ORTHOMCL320_Inner7": {
-        "Terminals": [
-          3,
-          181,
-          8,
-          58,
-          165,
-          79,
-          21,
-          254,
-          212
-        ],
         "List_terminals_hash": {
           "list": [
             3,
@@ -963,10 +801,6 @@
         ]
       },
       "tree_ORTHOMCL320_Inner6": {
-        "Terminals": [
-          3,
-          181
-        ],
         "List_terminals_hash": {
           "list": [
             3,
@@ -986,10 +820,6 @@
         ]
       },
       "tree_ORTHOMCL320_Inner4": {
-        "Terminals": [
-          8,
-          58
-        ],
         "List_terminals_hash": {
           "list": [
             8,
@@ -1009,13 +839,6 @@
         ]
       },
       "tree_ORTHOMCL320_Inner5": {
-        "Terminals": [
-          165,
-          79,
-          21,
-          254,
-          212
-        ],
         "List_terminals_hash": {
           "list": [
             165,
@@ -1050,12 +873,6 @@
         ]
       },
       "tree_ORTHOMCL320_Inner3": {
-        "Terminals": [
-          165,
-          79,
-          21,
-          254
-        ],
         "List_terminals_hash": {
           "list": [
             165,
@@ -1085,11 +902,6 @@
         ]
       },
       "tree_ORTHOMCL320_Inner2": {
-        "Terminals": [
-          79,
-          21,
-          254
-        ],
         "List_terminals_hash": {
           "list": [
             79,
@@ -1114,10 +926,6 @@
         ]
       },
       "tree_ORTHOMCL320_Inner1": {
-        "Terminals": [
-          21,
-          254
-        ],
         "List_terminals_hash": {
           "list": [
             21,
@@ -1141,17 +949,6 @@
   {
     "tree_ORTHOMCL337": {
       "tree_ORTHOMCL337_Inner7": {
-        "Terminals": [
-          123,
-          117,
-          44,
-          175,
-          103,
-          16,
-          162,
-          10,
-          171
-        ],
         "List_terminals_hash": {
           "list": [
             123,
@@ -1206,14 +1003,6 @@
         ]
       },
       "tree_ORTHOMCL337_Inner5": {
-        "Terminals": [
-          123,
-          117,
-          44,
-          175,
-          103,
-          16
-        ],
         "List_terminals_hash": {
           "list": [
             123,
@@ -1253,13 +1042,6 @@
         ]
       },
       "tree_ORTHOMCL337_Inner4": {
-        "Terminals": [
-          117,
-          44,
-          175,
-          103,
-          16
-        ],
         "List_terminals_hash": {
           "list": [
             117,
@@ -1294,11 +1076,6 @@
         ]
       },
       "tree_ORTHOMCL337_Inner3": {
-        "Terminals": [
-          117,
-          44,
-          175
-        ],
         "List_terminals_hash": {
           "list": [
             117,
@@ -1323,10 +1100,6 @@
         ]
       },
       "tree_ORTHOMCL337_Inner1": {
-        "Terminals": [
-          44,
-          175
-        ],
         "List_terminals_hash": {
           "list": [
             44,
@@ -1346,10 +1119,6 @@
         ]
       },
       "tree_ORTHOMCL337_Inner2": {
-        "Terminals": [
-          103,
-          16
-        ],
         "List_terminals_hash": {
           "list": [
             103,
@@ -1369,10 +1138,6 @@
         ]
       },
       "tree_ORTHOMCL337_Inner6": {
-        "Terminals": [
-          162,
-          10
-        ],
         "List_terminals_hash": {
           "list": [
             162,
@@ -1396,17 +1161,6 @@
   {
     "tree_ORTHOMCL358": {
       "tree_ORTHOMCL358_Inner7": {
-        "Terminals": [
-          65,
-          6,
-          97,
-          29,
-          253,
-          142,
-          52,
-          64,
-          66
-        ],
         "List_terminals_hash": {
           "list": [
             65,
@@ -1461,13 +1215,6 @@
         ]
       },
       "tree_ORTHOMCL358_Inner5": {
-        "Terminals": [
-          65,
-          6,
-          97,
-          29,
-          253
-        ],
         "List_terminals_hash": {
           "list": [
             65,
@@ -1502,10 +1249,6 @@
         ]
       },
       "tree_ORTHOMCL358_Inner1": {
-        "Terminals": [
-          65,
-          6
-        ],
         "List_terminals_hash": {
           "list": [
             65,
@@ -1525,11 +1268,6 @@
         ]
       },
       "tree_ORTHOMCL358_Inner4": {
-        "Terminals": [
-          97,
-          29,
-          253
-        ],
         "List_terminals_hash": {
           "list": [
             97,
@@ -1554,10 +1292,6 @@
         ]
       },
       "tree_ORTHOMCL358_Inner3": {
-        "Terminals": [
-          97,
-          29
-        ],
         "List_terminals_hash": {
           "list": [
             97,
@@ -1577,11 +1311,6 @@
         ]
       },
       "tree_ORTHOMCL358_Inner6": {
-        "Terminals": [
-          142,
-          52,
-          64
-        ],
         "List_terminals_hash": {
           "list": [
             142,
@@ -1606,10 +1335,6 @@
         ]
       },
       "tree_ORTHOMCL358_Inner2": {
-        "Terminals": [
-          52,
-          64
-        ],
         "List_terminals_hash": {
           "list": [
             52,
@@ -1633,17 +1358,6 @@
   {
     "tree_ORTHOMCL364": {
       "tree_ORTHOMCL364_Inner7": {
-        "Terminals": [
-          181,
-          164,
-          17,
-          176,
-          120,
-          122,
-          33,
-          27,
-          42
-        ],
         "List_terminals_hash": {
           "list": [
             181,
@@ -1698,14 +1412,6 @@
         ]
       },
       "tree_ORTHOMCL364_Inner6": {
-        "Terminals": [
-          181,
-          164,
-          17,
-          176,
-          120,
-          122
-        ],
         "List_terminals_hash": {
           "list": [
             181,
@@ -1745,12 +1451,6 @@
         ]
       },
       "tree_ORTHOMCL364_Inner3": {
-        "Terminals": [
-          181,
-          164,
-          17,
-          176
-        ],
         "List_terminals_hash": {
           "list": [
             181,
@@ -1780,11 +1480,6 @@
         ]
       },
       "tree_ORTHOMCL364_Inner2": {
-        "Terminals": [
-          164,
-          17,
-          176
-        ],
         "List_terminals_hash": {
           "list": [
             164,
@@ -1809,10 +1504,6 @@
         ]
       },
       "tree_ORTHOMCL364_Inner1": {
-        "Terminals": [
-          17,
-          176
-        ],
         "List_terminals_hash": {
           "list": [
             17,
@@ -1832,10 +1523,6 @@
         ]
       },
       "tree_ORTHOMCL364_Inner4": {
-        "Terminals": [
-          120,
-          122
-        ],
         "List_terminals_hash": {
           "list": [
             120,
@@ -1855,10 +1542,6 @@
         ]
       },
       "tree_ORTHOMCL364_Inner5": {
-        "Terminals": [
-          33,
-          27
-        ],
         "List_terminals_hash": {
           "list": [
             33,
@@ -1882,13 +1565,6 @@
   {
     "tree_ORTHOMCL1": {
       "tree_ORTHOMCL1_Inner3": {
-        "Terminals": [
-          59,
-          35,
-          191,
-          47,
-          63
-        ],
         "List_terminals_hash": {
           "list": [
             59,
@@ -1923,10 +1599,6 @@
         ]
       },
       "tree_ORTHOMCL1_Inner2": {
-        "Terminals": [
-          59,
-          35
-        ],
         "List_terminals_hash": {
           "list": [
             59,
@@ -1946,10 +1618,6 @@
         ]
       },
       "tree_ORTHOMCL1_Inner1": {
-        "Terminals": [
-          47,
-          63
-        ],
         "List_terminals_hash": {
           "list": [
             47,
