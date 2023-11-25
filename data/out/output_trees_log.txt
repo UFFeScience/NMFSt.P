@@ -1,0 +1,16 @@
+
+____________________________________________________________________________________________________
+
+                                               NMFSt.P                                                   
+                                               -------                                                   
+
+                           Notebook para Identificação em Paralelo de Subárvores                           
+                              Frequentes em Conjuntos de Árvores Filogenéticas                              
+                           ------------------------------------------------------
+
+Relatório:
+
+Tempo de execução: 5.51s
+Árvores construidas com sucesso: 201
+____________________________________________________________________________________________________
+
