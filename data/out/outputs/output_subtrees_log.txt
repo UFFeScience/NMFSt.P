@@ -20813,48 +20813,7 @@ DIM: "201x8"  --------------------
 - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
                                        Subárvores frequentes:                                      
 
-Número de Árvores que contém Subárvores frequêntes no dataset: 3 árvores
-
-
-Árvore: tree_ORTHOMCL1895
-
-     - Subárvore: tree_ORTHOMCL1895_Inner2
-     - Número de aparições: 7 de 201 
-     - Suporte: 3.483%
-     - Terminais: ['4lcl|XP_820341.1', '5lcl|XP_823033.1']
-     - Subárvore ASCII: 
-
-                        __________________________________ 4lcl|XP_820341.1
-_______________________|
-                       |_______________________________________ 5lcl|XP_823033.1
-
-
-Árvore: tree_ORTHOMCL1958
-
-     - Subárvore: tree_ORTHOMCL1958_Inner1
-     - Número de aparições: 7 de 201 
-     - Suporte: 3.483%
-     - Terminais: ['4lcl|XP_655570.1', '3lcl|XP_001350108.1']
-     - Subárvore ASCII: 
-
-                            ______________________________ 4lcl|XP_655570.1
-___________________________|
-                           |________________________________ 3lcl|XP_001350108.1
-
-
-Árvore: tree_ORTHOMCL648
-
-     - Subárvore: tree_ORTHOMCL648_Inner3
-     - Número de aparições: 8 de 201 
-     - Suporte: 3.980%
-     - Terminais: ['5lcl|XP_654217.2', '3lcl|CAD49027.1', '2lcl|CAD12439.1']
-     - Subárvore ASCII: 
-
-                 ____________________________________________ 5lcl|XP_654217.2
-________________|
-                |                                            , 3lcl|CAD49027.1
-                |____________________________________________|
-                                                             | 2lcl|CAD12439.1
+Número de Árvores que contém Subárvores frequêntes no dataset: 0 árvores
 
 - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
 
@@ -20869,7 +20828,7 @@ ________________________________________________________________________________
 
 Relatório:
 
-Tempo de execução: 0.74s
+Tempo de execução: 0.72s
 Árvores analisadas com sucesso: 201
 Número de subárvores produzidas e analisadas: 795
 
