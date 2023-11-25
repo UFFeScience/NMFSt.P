@@ -1,4 +1,3 @@
-# %%
 import sqlite3, json, os
 import pandas as pd
 
@@ -44,7 +43,7 @@ def init_database(data_json):
     print("Dados inseridos no banco de dados.")
 
 
-    # %%
+  
 
     # Executar uma consulta SQL para selecionar todos os dados da tabela
     consulta_sql = 'SELECT * FROM tree_data'
