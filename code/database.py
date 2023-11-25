@@ -56,7 +56,7 @@ def init_database(data_json):
     # Fechar a conexão com o banco de dados
     conn.close()
 
-    # Exibir o DataFrame (tabela) usando pandas
+
     dados_df.to_csv(OUTPUT_CSV)
     dados_df
 
