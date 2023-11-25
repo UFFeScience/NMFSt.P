@@ -13,7 +13,7 @@
 Antes de executar o projeto, é necessário instalar as dependências do Python especificadas no arquivo "requirements.txt". Para isso, execute o seguinte comando no terminal:
 
 ```
-pip install -r requirements.txt
+pip install --ignore-installed -r requirements.txt
 ```
 
 Para instalação do Clustalw no linux ( Ubuntu ):

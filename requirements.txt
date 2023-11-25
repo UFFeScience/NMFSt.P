@@ -3,3 +3,4 @@ dendropy==4.6.1
 tqdm==4.65.1
 mlxtend  
 pandas
+sqlite3
