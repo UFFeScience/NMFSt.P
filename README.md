@@ -1,8 +1,8 @@
 # NMFSt.P
 
-<a href="https://sol.sbc.org.br/index.php/bresci/article/view/25492">NMFSt.P: um Notebook para Identificação em Paralelo de Subárvores Frequentes em Conjuntos de Árvores Filogenéticas</a>
+<a href="https://sol.sbc.org.br/index.php/bresci/article/view/25492">NMFSt.P: A Notebook for Parallel Identification of Frequent Subtrees in Phylogenetic Tree Ensembles.</a>
 
-## Pré-requisitos
+## Prerequisites
 
 - Python 3.10.12
 - Clustalw (versão 2.1) 
@@ -10,57 +10,57 @@
 
 
 
-## Instalação de Dependências
+## Installation of Dependencies
 
-Antes de executar o projeto, é necessário instalar as dependências do Python especificadas no arquivo "requirements.txt". Para isso, execute o seguinte comando no terminal:
+Before running the project, you must install the Python dependencies specified in the "requirements.txt" file. To do this, run the following command in the terminal:
 
 ```
 pip install -r requirements.txt
 ```
 
-Para instalação do Clustalw no linux ( Ubuntu ):
+To install Clustalw on Linux (Ubuntu):
 
 ```
 sudo apt update
 sudo apt-get install clustalw
 ```
-## Organização dos Arquivos
-Certifique-se de que todos os arquivos necessários, incluindo as sequências de proteínas no formato FASTA, estejam no diretório especificado em 'input_path'.
+## File Organization
+Ensure that all required files, including protein sequences in FASTA format, are in the directory specified in 'input_path'.
 
-## Etapas do Workflow
+## Workflow Steps
 
-## 1. Construção de Árvores Filogenéticas
+## 1. Construction of Phylogenetic Trees
 
-O primeiro passo do workflow é a construção de árvores filogenéticas a partir das sequências de proteínas fornecidas. Para isso, execute o script "Constructor.ipynb" no terminal:
+The first step of the workflow is the construction of phylogenetic trees from the provided protein sequences. To do this, run the "Constructor.ipynb" script in the terminal:
 
 ```
 python Constructor.ipynb
 ```
-Esse script realiza o alinhamento múltiplo das sequências usando o ClustalW e, em seguida, constrói a árvore filogenética utilizando o método Neighbor-Joining (NJ).
+This script performs multiple sequence alignment using ClustalW and then builds the phylogenetic tree using the Neighbor-Joining (NJ) method.
 
-## 2. Construção de Subárvores e Análise de MAF
+## 2. Construction of Subtrees and MAF Analysis
 
-Após a construção das árvores filogenéticas, o próximo passo é gerar subárvores a partir das árvores principais e realizar a análise de MAF (matriz de frequência de pares de subárvores).
+After constructing the phylogenetic trees, the next step is to generate subtrees from the main trees and perform the MAF (subtree pair frequency matrix) analysis.
 
-Execute o script "sub_find.ipynb" no terminal:
+Run the "sub_find.ipynb" script in the terminal:
 
 ```
 python sub_find.ipynb
 ```
-Esse script irá gerar todas as subárvores a partir das árvores filogenéticas e, em seguida, calcular a matriz de frequência de pares de subárvores (MAF). O resultado será exibido no terminal.
+This script will generate all subtrees from the phylogenetic trees and then calculate the subtree pairwise frequency (MAF) matrix. The result will be displayed on the terminal.
 
-## Saída
+## Outputs
 
-As subárvores geradas serão salvas no diretório "out/Subtrees". Além disso, a matriz de frequência de pares de subárvores (MAF) será exibida no terminal durante a execução do script "sub_find.ipynb".
+The generated subtrees will be saved in the "out/Subtrees" directory. Additionally, the subtree pair frequency (MAF) matrix will be displayed in the terminal while running the "sub_find.ipynb" script.
 
-## Limpeza de Arquivos Temporários
+## Temporary File Cleanup
 
-O script "Constructor.ipynb" e "sub_find.ipynb" realizarão automaticamente a limpeza dos arquivos temporários gerados durante o processo. Os arquivos temporários serão excluídos do diretório "out/tmp/".
+The "Constructor.ipynb" and "sub_find.ipynb" script will automatically clean up the temporary files generated during the process. Temporary files will be deleted from the "out/tmp/" directory.
 
-## Considerações Finais
+## Final considerations
 
-Este guia fornece uma visão geral do workflow para construção de árvores filogenéticas e análise de subárvores. Certifique-se de que os arquivos de entrada estejam corretamente organizados nos diretórios indicados e execute os scripts conforme as etapas descritas.
+This guide provides an overview of the workflow for building phylogenetic trees and analyzing subtrees. Make sure that the input files are correctly organized in the indicated directories and run the scripts according to the steps described.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
